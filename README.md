@@ -115,3 +115,4 @@ When the site is ready for public launch, set:
 `preview: false`
 
 The noindex meta tag and demo banner will disappear automatically. Keep Cloudflare AI/search crawler policies set to Allow for the crawlers you want to reach the site.
+Deployment trigger
