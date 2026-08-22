@@ -30,3 +30,8 @@ Still to add later:
 17. Removed marketing-style slogans and achievement framing.
 18. Kyla Scanlon influence is limited to editorial typography, whitespace, portrait-led layout and large vertical video presentation.
 19. Czech-first routing, canonical URLs, hreflang, redirects, sitemap and noindex development status remain unchanged.
+
+20. Added the supplied portrait to the Czech and English homepages and as the OpenGraph/social preview image.
+21. Added all eight supplied Facebook Reel URLs to the Czech/English homepage and Analysis pages.
+22. Reels use Facebook's public video plugin with show_text=1 so Facebook renders the original Reel description at runtime; the exact public URL is separately visible below each embed.
+23. The exact Reel captions are not duplicated into local HTML because Facebook did not expose them to the unauthenticated crawler used during development. For maximum search indexing, copy the captions into local HTML once exact text is available rather than inventing it.
