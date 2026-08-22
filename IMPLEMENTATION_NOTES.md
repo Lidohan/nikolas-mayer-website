@@ -25,3 +25,8 @@ Still to add later:
 - social `sameAs` URLs once confirmed
 - `og:image` / social preview assets
 - indexation only after production QA
+
+16. Reverted the visible hierarchy to the earlier restrained professional version.
+17. Removed marketing-style slogans and achievement framing.
+18. Kyla Scanlon influence is limited to editorial typography, whitespace, portrait-led layout and large vertical video presentation.
+19. Czech-first routing, canonical URLs, hreflang, redirects, sitemap and noindex development status remain unchanged.
