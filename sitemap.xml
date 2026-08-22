@@ -1,13 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://nikolasmayer.com/</loc></url>
-  <url><loc>https://nikolasmayer.com/about</loc></url>
-  <url><loc>https://nikolasmayer.com/career</loc></url>
-  <url><loc>https://nikolasmayer.com/publications</loc></url>
-  <url><loc>https://nikolasmayer.com/analysis</loc></url>
-  <url><loc>https://nikolasmayer.com/cs</loc></url>
-  <url><loc>https://nikolasmayer.com/cs-o-mne</loc></url>
-  <url><loc>https://nikolasmayer.com/cs-kariera</loc></url>
-  <url><loc>https://nikolasmayer.com/cs-publikace</loc></url>
-  <url><loc>https://nikolasmayer.com/cs-analyzy</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://nikolasmayer.com/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/en/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/o-mne/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/o-mne/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/about/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/o-mne/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/en/about/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/o-mne/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/about/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/o-mne/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/kariera/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/en/career/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/publikace/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/publikace/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/publications/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/publikace/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/en/publications/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/publikace/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/publications/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/publikace/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/analyzy/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/analyzy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/analysis/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/analyzy/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/en/analysis/</loc>
+    <lastmod>2026-08-22</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/analyzy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/analysis/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/analyzy/" />
+  </url>
 </urlset>
