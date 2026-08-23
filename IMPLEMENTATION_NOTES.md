@@ -35,3 +35,11 @@ Still to add later:
 21. Added all eight supplied Facebook Reel URLs to the Czech/English homepage and Analysis pages.
 22. Reels use Facebook's public video plugin with show_text=1 so Facebook renders the original Reel description at runtime; the exact public URL is separately visible below each embed.
 23. The exact Reel captions are not duplicated into local HTML because Facebook did not expose them to the unauthenticated crawler used during development. For maximum search indexing, copy the captions into local HTML once exact text is available rather than inventing it.
+
+24. Homepage philosophy changed: tiny portrait and concise biography on the left; full professional chronology on the right.
+25. Homepage CV runs from the current European Parliament role back through Boston Consulting Group.
+26. Standalone reference/evidence presentation was removed from the homepage and About page.
+27. Public references remain attached only to relevant detailed Career/Publication entries; Career source links are collapsed into user-accessible <details> blocks so they remain crawlable without dominating the design.
+
+28. Removed the large portrait from About; the supplied portrait is now intentionally tiny on the homepage identity block and retained only as a social-preview asset.
+29. Education verification links were moved into collapsed, user-accessible source details within the relevant education entry.
