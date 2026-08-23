@@ -2,72 +2,268 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://nikolasmayer.com/</loc>
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-08-23</lastmod>
     <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/" />
   </url>
   <url>
     <loc>https://nikolasmayer.com/en/</loc>
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-08-23</lastmod>
     <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/" />
   </url>
   <url>
     <loc>https://nikolasmayer.com/o-mne/</loc>
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-08-23</lastmod>
     <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/o-mne/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/about/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/o-mne/" />
   </url>
   <url>
     <loc>https://nikolasmayer.com/en/about/</loc>
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-08-23</lastmod>
     <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/o-mne/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/about/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/o-mne/" />
   </url>
   <url>
     <loc>https://nikolasmayer.com/kariera/</loc>
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-08-23</lastmod>
     <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/" />
   </url>
   <url>
     <loc>https://nikolasmayer.com/en/career/</loc>
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-08-23</lastmod>
     <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/" />
   </url>
   <url>
     <loc>https://nikolasmayer.com/publikace/</loc>
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-08-23</lastmod>
     <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/publikace/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/publications/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/publikace/" />
   </url>
   <url>
     <loc>https://nikolasmayer.com/en/publications/</loc>
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-08-23</lastmod>
     <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/publikace/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/publications/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/publikace/" />
   </url>
   <url>
     <loc>https://nikolasmayer.com/analyzy/</loc>
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-08-23</lastmod>
     <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/analyzy/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/analysis/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/analyzy/" />
   </url>
   <url>
     <loc>https://nikolasmayer.com/en/analysis/</loc>
-    <lastmod>2026-08-22</lastmod>
+    <lastmod>2026-08-23</lastmod>
     <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/analyzy/" />
     <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/analysis/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/analyzy/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/kariera/evropsky-parlament/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/evropsky-parlament/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/european-parliament/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/evropsky-parlament/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/en/career/european-parliament/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/evropsky-parlament/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/european-parliament/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/evropsky-parlament/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/kariera/evropska-komise-dg-ecfin/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/evropska-komise-dg-ecfin/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/european-commission-dg-ecfin/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/evropska-komise-dg-ecfin/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/en/career/european-commission-dg-ecfin/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/evropska-komise-dg-ecfin/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/european-commission-dg-ecfin/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/evropska-komise-dg-ecfin/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/kariera/ecb-makroobezretnostni-politika/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/ecb-makroobezretnostni-politika/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/ecb-macroprudential-policy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/ecb-makroobezretnostni-politika/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/en/career/ecb-macroprudential-policy/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/ecb-makroobezretnostni-politika/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/ecb-macroprudential-policy/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/ecb-makroobezretnostni-politika/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/kariera/ecb-dluhopisove-a-mezinarodni-trhy/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/ecb-dluhopisove-a-mezinarodni-trhy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/ecb-bond-and-international-markets/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/ecb-dluhopisove-a-mezinarodni-trhy/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/en/career/ecb-bond-and-international-markets/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/ecb-dluhopisove-a-mezinarodni-trhy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/ecb-bond-and-international-markets/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/ecb-dluhopisove-a-mezinarodni-trhy/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/kariera/ecb-statistika-bankovniho-dohledu/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/ecb-statistika-bankovniho-dohledu/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/ecb-supervisory-banking-statistics/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/ecb-statistika-bankovniho-dohledu/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/en/career/ecb-supervisory-banking-statistics/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/ecb-statistika-bankovniho-dohledu/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/ecb-supervisory-banking-statistics/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/ecb-statistika-bankovniho-dohledu/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/kariera/esrb-analyza-systemovych-rizik/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/esrb-analyza-systemovych-rizik/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/esrb-systemic-risk-analysis/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/esrb-analyza-systemovych-rizik/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/en/career/esrb-systemic-risk-analysis/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/esrb-analyza-systemovych-rizik/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/esrb-systemic-risk-analysis/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/esrb-analyza-systemovych-rizik/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/kariera/evropska-komise-staz-makroekonomicke-nerovnovahy/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/evropska-komise-staz-makroekonomicke-nerovnovahy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/european-commission-traineeship-macroeconomic-imbalances/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/evropska-komise-staz-makroekonomicke-nerovnovahy/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/en/career/european-commission-traineeship-macroeconomic-imbalances/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/evropska-komise-staz-makroekonomicke-nerovnovahy/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/european-commission-traineeship-macroeconomic-imbalances/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/evropska-komise-staz-makroekonomicke-nerovnovahy/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/kariera/boston-consulting-group/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/boston-consulting-group/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/boston-consulting-group/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/boston-consulting-group/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/en/career/boston-consulting-group/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/boston-consulting-group/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/boston-consulting-group/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/boston-consulting-group/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/kariera/arthur-d-little/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/arthur-d-little/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/arthur-d-little/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/arthur-d-little/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/en/career/arthur-d-little/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/arthur-d-little/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/arthur-d-little/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/arthur-d-little/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/kariera/stale-zastoupeni-ceske-republiky-pri-eu/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/stale-zastoupeni-ceske-republiky-pri-eu/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/czech-permanent-representation-to-eu/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/stale-zastoupeni-ceske-republiky-pri-eu/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/en/career/czech-permanent-representation-to-eu/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/stale-zastoupeni-ceske-republiky-pri-eu/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/czech-permanent-representation-to-eu/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/stale-zastoupeni-ceske-republiky-pri-eu/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/kariera/university-of-st-gallen/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/university-of-st-gallen/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/university-of-st-gallen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/university-of-st-gallen/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/en/career/university-of-st-gallen/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/university-of-st-gallen/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/university-of-st-gallen/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/university-of-st-gallen/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/kariera/london-school-of-economics/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/london-school-of-economics/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/london-school-of-economics/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/london-school-of-economics/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/en/career/london-school-of-economics/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/london-school-of-economics/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/london-school-of-economics/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/london-school-of-economics/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/kariera/university-of-warwick/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/university-of-warwick/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/university-of-warwick/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/university-of-warwick/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/en/career/university-of-warwick/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/university-of-warwick/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/university-of-warwick/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/university-of-warwick/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/kariera/gymnazium-matyase-lercha/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/gymnazium-matyase-lercha/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/gymnazium-matyase-lercha/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/gymnazium-matyase-lercha/" />
+  </url>
+  <url>
+    <loc>https://nikolasmayer.com/en/career/gymnazium-matyase-lercha/</loc>
+    <lastmod>2026-08-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://nikolasmayer.com/kariera/gymnazium-matyase-lercha/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://nikolasmayer.com/en/career/gymnazium-matyase-lercha/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://nikolasmayer.com/kariera/gymnazium-matyase-lercha/" />
   </url>
 </urlset>

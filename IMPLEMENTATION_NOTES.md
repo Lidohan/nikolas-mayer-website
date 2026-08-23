@@ -43,3 +43,13 @@ Still to add later:
 
 28. Removed the large portrait from About; the supplied portrait is now intentionally tiny on the homepage identity block and retained only as a social-preview asset.
 29. Education verification links were moved into collapsed, user-accessible source details within the relevant education entry.
+
+28. Czech homepage role names translated into Czech; no English labels such as Research Analyst or Trainee in the Czech-facing CV.
+29. Homepage CV now uses 4 concise one-line bullets per role and runs through Boston Consulting Group.
+30. About now contains a complete CV through Arthur D. Little, the Czech Permanent Representation, St. Gallen, LSE, Warwick and Gymnázium Matyáše Lercha, plus a personal-information section.
+31. Career no longer groups older jobs under “Earlier experience”; every job and each education entry uses the same visual format.
+32. Every career/education entry now has its own crawlable URL with detailed visible content, project descriptions, outputs and source links.
+33. Career index contains a substantial bold summary paragraph for every job and study entry.
+34. Publications page now lists forecasts, IDRs, Country Reports and other public outputs separately one by one.
+35. Analysis page was reduced to the video placeholder/archive only; the category cards beginning with “Foreign ownership, dividends and FDI” and the generic canonical-page explanation were removed.
+36. Facebook Reel embeds retain show_text=1 but now explicitly allow iframe scrolling; explanatory placeholder copy around the embeds was removed.
