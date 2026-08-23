@@ -53,3 +53,8 @@ Still to add later:
 34. Publications page now lists forecasts, IDRs, Country Reports and other public outputs separately one by one.
 35. Analysis page was reduced to the video placeholder/archive only; the category cards beginning with “Foreign ownership, dividends and FDI” and the generic canonical-page explanation were removed.
 36. Facebook Reel embeds retain show_text=1 but now explicitly allow iframe scrolling; explanatory placeholder copy around the embeds was removed.
+
+37. Removed the personal-information section from About in both Czech and English.
+38. Career index now uses concise bullet points followed by a normal-weight explanatory paragraph instead of a long bold block.
+39. Replaced the Gymnázium Matyáše Lercha placeholder with a substantive description of the six-year Czech-French bilingual programme, its science orientation and the user's actual final examinations.
+40. Added official GML sources for the bilingual programme, curriculum, final examinations and graduate certificate (including the mathematics/science focus and at least C1 French).
