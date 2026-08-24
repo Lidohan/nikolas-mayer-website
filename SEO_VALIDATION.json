@@ -1,0 +1,86 @@
+{
+  "public_pages": 38,
+  "indexable_public_pages": 38,
+  "bad_index_pages": [],
+  "birthDate_hits": [],
+  "external_img_refs": [],
+  "generic_publication_links_remaining": 0,
+  "generic_detail_links_remaining": 0,
+  "english_detail_paragraph_uniqueness": {
+    "arthur-d-little": {
+      "paragraphs": 3,
+      "unique": 3
+    },
+    "boston-consulting-group": {
+      "paragraphs": 4,
+      "unique": 4
+    },
+    "czech-permanent-representation-to-eu": {
+      "paragraphs": 5,
+      "unique": 5
+    },
+    "ecb-bond-and-international-markets": {
+      "paragraphs": 6,
+      "unique": 6
+    },
+    "ecb-macroprudential-policy": {
+      "paragraphs": 5,
+      "unique": 5
+    },
+    "ecb-supervisory-banking-statistics": {
+      "paragraphs": 5,
+      "unique": 5
+    },
+    "esrb-systemic-risk-analysis": {
+      "paragraphs": 5,
+      "unique": 5
+    },
+    "european-commission-dg-ecfin": {
+      "paragraphs": 7,
+      "unique": 7
+    },
+    "european-commission-traineeship-macroeconomic-imbalances": {
+      "paragraphs": 5,
+      "unique": 5
+    },
+    "european-parliament": {
+      "paragraphs": 7,
+      "unique": 7
+    },
+    "gymnazium-matyase-lercha": {
+      "paragraphs": 5,
+      "unique": 5
+    },
+    "london-school-of-economics": {
+      "paragraphs": 4,
+      "unique": 4
+    },
+    "university-of-st-gallen": {
+      "paragraphs": 4,
+      "unique": 4
+    },
+    "university-of-warwick": {
+      "paragraphs": 3,
+      "unique": 3
+    }
+  },
+  "local_institution_assets": [
+    "arthur-d-little.svg",
+    "bcg.svg",
+    "czech-permanent-representation.svg",
+    "ecb.svg",
+    "esrb.svg",
+    "european-commission.svg",
+    "european-parliament.svg",
+    "gml.svg",
+    "lse.svg",
+    "st-gallen.svg",
+    "warwick.svg"
+  ],
+  "semantic_social_webp_files": [
+    "ceny-bydleni-praha-mzdy.webp",
+    "cesky-statni-dluh-kdo-ho-drzi.webp",
+    "montovna-evropy-zahranicni-kapital.webp",
+    "siemens-cdu-cerne-pokladny.webp"
+  ]
+}

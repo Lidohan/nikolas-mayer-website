@@ -102,3 +102,13 @@ Still to add later:
 68. EP and European Commission marks are optically scaled inside their date column to compensate for whitespace embedded in the source artwork.
 69. ESRB is enlarged to roughly 92 px; ECB and remaining favicon-based institutions to roughly 72 px on desktop.
 70. The CV date column is widened slightly so the institutional branding fills the available whitespace without colliding with the text.
+
+71. Created an indexable production build; intended public pages now use index,follow with unrestricted image/snippet/video previews, while 404 remains noindex.
+72. Removed birthDate from all Person JSON-LD instances and retained the rule that crawler-visible personal facts must also be supported by human-readable content.
+73. Fixed the duplicated English career-detail generation bug on all affected career/education pages with distinct role-specific English sections.
+74. Replaced generic publication-link labels with descriptive anchors identifying the Commission Institutional Paper, ECB Working Paper, EUR-Lex document, EP report/OEIL file, journal or other destination.
+75. Replaced generic homepage/About Detail links with descriptive role/study links.
+76. Improved the four short About/Analysis meta descriptions in Czech and English.
+77. Removed all third-party institution image hotlinks; CV institution images are now local under /assets/institutions/.
+78. Renamed and converted the four Instagram thumbnails to descriptive WebP filenames.
+79. robots.txt and the origin Content-Signal explicitly permit search, AI input/grounding and AI training, with use=full.
