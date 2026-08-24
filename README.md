@@ -1,6 +1,8 @@
-# Nikolas Mayer website — Czech-first Cloudflare Pages version
+# Nikolas Mayer website — PRODUCTION
 
-Static, framework-free website.
+Static, framework-free website for:
+
+https://nikolasmayer.com/
 
 ## Public URL architecture
 
@@ -12,59 +14,47 @@ Czech is the default language:
 - `/publikace/`
 - `/analyzy/`
 
-English is under `/en/`:
-
-- `/en/`
-- `/en/about/`
-- `/en/career/`
-- `/en/publications/`
-- `/en/analysis/`
-
-Old URLs are permanently redirected through `_redirects`.
+English is under `/en/`.
 
 ## Cloudflare Pages
 
+- Production branch: `main`
 - Build command: `exit 0`
 - Build output directory: `/`
 - Root directory: `/`
 
-## Indexing status
+## Production indexing
 
-All main pages intentionally retain:
+This build is intentionally indexable.
 
-`<meta name="robots" content="noindex,follow">`
+All intended public pages use:
 
-while the site is being developed.
+`index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1`
 
-`robots.txt` allows crawling so crawlers can see the noindex directive and contains the sitemap location.
+`404.html` remains `noindex,follow`.
 
-At launch, remove the `noindex,follow` meta tag from public pages (or change it to `index,follow`) only after canonical URLs, hreflang pairs, sitemap, content and production domain have been checked.
+Cloudflare Pages preview deployment URLs should remain non-indexable through
+Cloudflare's preview-deployment `X-Robots-Tag: noindex` behaviour.
 
-## Multilingual SEO
+## Search and AI crawling
 
-Every Czech/English page pair has:
+The repository explicitly permits:
 
-- a self-referencing canonical
-- reciprocal `hreflang="cs"`
-- reciprocal `hreflang="en"`
-- Czech page as `x-default`
+- search-engine crawling
+- AI search / grounding
+- AI assistants / agents
+- AI model training
 
-The sitemap repeats these alternate-language relationships.
+See `robots.txt`, `_headers` and `PRODUCTION_INDEXING.md`.
 
-## Analysis pages
+Cloudflare account-level AI Crawl Control / WAF settings must also be set to
+Allow for Search, Agent and Training if full permissibility is desired.
 
-The collection pages are ready for individual analysis articles. Each future video/article should receive one canonical website URL with:
+## Deployment
 
-- visible article text
-- transcript
-- primary sources
-- charts/data
-- links to Instagram/Facebook/TikTok versions
-- Article structured data
-- VideoObject structured data where applicable
+Replace the contents of the GitHub repository production branch with the
+contents of this package, commit all additions/deletions, and push `main`.
 
-Do not add crawler-only hidden English text.
-
-## Content provenance
-
-Career, education and publication copy was expanded from the consolidated private evidence bank and links to public institutional or publisher records where available.
+Cloudflare Pages will automatically deploy the connected production branch.
+After deployment, verify the custom domain, robots meta/header, robots.txt,
+sitemap.xml and redirects before submitting the sitemap to search engines.
