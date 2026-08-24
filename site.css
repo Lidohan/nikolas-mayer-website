@@ -651,3 +651,71 @@ h3{font-size:18px;line-height:1.25;margin-bottom:8px}
   margin-top:9px;
   border-radius:4px;
 }
+
+
+/* Full institutional marks in the CV date column */
+.cv-period{
+  overflow:visible;
+}
+.cv-period .cv-institution-logo{
+  display:block;
+  object-fit:contain;
+  object-position:left center;
+  margin-top:13px;
+  border-radius:0;
+}
+
+.cv-institution-logo--wide{
+  width:100%;
+  max-width:108px;
+  height:auto;
+  max-height:76px;
+}
+
+.cv-institution-logo--emblem{
+  width:76px;
+  height:76px;
+  max-width:76px;
+  max-height:76px;
+}
+
+.cv-institution-logo--favicon{
+  width:46px;
+  height:46px;
+  max-width:46px;
+  max-height:46px;
+  border-radius:7px !important;
+}
+
+.cv-logo-ep{
+  width:108px;
+  max-width:108px;
+  max-height:70px;
+}
+
+.cv-logo-ec{
+  width:106px;
+  max-width:106px;
+  max-height:70px;
+}
+
+.cv-logo-esrb{
+  width:78px;
+  height:78px;
+  max-width:78px;
+  max-height:78px;
+}
+
+@media(max-width:600px){
+  .cv-institution-logo--wide,
+  .cv-logo-ep,
+  .cv-logo-ec{
+    width:90px;
+    max-width:90px;
+  }
+  .cv-institution-logo--emblem,
+  .cv-logo-esrb{
+    width:62px;
+    height:62px;
+  }
+}

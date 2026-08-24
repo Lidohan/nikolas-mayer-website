@@ -91,3 +91,9 @@ Still to add later:
 59. Current European Parliament employment year is displayed as 2025–2026.
 60. Added a small institution mark below the year/date for every CV entry on Home and About, using the relevant institution/domain favicon.
 61. Added the three newly supplied Instagram thumbnails (Insta2.png, Insta3.png, Insta4.png) in addition to Insta1.png; the first four Instagram homepage cards now use local image thumbnails rather than blocked Instagram iframes.
+
+62. Replaced the European Parliament favicon with the full Wikimedia European Parliament logo requested by the user.
+63. Replaced European Commission favicons with the official RGB MUTE SVG supplied in EC logo_MUTE.zip.
+64. Replaced the ESRB favicon with the official ESRB logo_only.svg supplied by the user.
+65. Enlarged proper institutional logos to use most of the blank date-column area; remaining favicon-style institutions stay smaller to avoid pixelation.
+66. Applied institution marks consistently to Home and About in both Czech and English versions.
