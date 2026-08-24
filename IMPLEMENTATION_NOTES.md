@@ -80,3 +80,14 @@ Still to add later:
 53. Replaced TikTok homepage/list positions 2–4 with videos 7385054453071629601, 7400062866868522272 and 7556626282943909142.
 54. Removed Instagram iframes entirely because direct embedding returned “www.instagram.com refused to connect”. Instagram now uses thumbnail/link cards.
 55. The first Instagram Reel uses the supplied Insta1.png thumbnail. Only one thumbnail file was received in this message; the other known Instagram videos use title cards until their thumbnails are supplied.
+
+56. Corrected the four homepage Facebook Reels and their view counts:
+    - housing affordability: 1,368,572
+    - Czech bank ownership: 564,755
+    - Czech breweries ownership: 1,110,715
+    - housing prices by city: 1,472,819
+57. Replaced the previous second homepage Facebook Reel with https://www.facebook.com/reel/1386510929760652.
+58. Added the new bank-ownership Reel to the complete Analysis archive while retaining previously supplied Facebook Reels.
+59. Current European Parliament employment year is displayed as 2025–2026.
+60. Added a small institution mark below the year/date for every CV entry on Home and About, using the relevant institution/domain favicon.
+61. Added the three newly supplied Instagram thumbnails (Insta2.png, Insta3.png, Insta4.png) in addition to Insta1.png; the first four Instagram homepage cards now use local image thumbnails rather than blocked Instagram iframes.

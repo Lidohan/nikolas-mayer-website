@@ -639,3 +639,15 @@ h3{font-size:18px;line-height:1.25;margin-bottom:8px}
   border-left:1px solid var(--line);
   color:#555;
 }
+
+
+/* Small institution logo under each CV date */
+.cv-period .cv-institution-logo,
+.cv-institution-logo{
+  display:block;
+  width:28px;
+  height:28px;
+  object-fit:contain;
+  margin-top:9px;
+  border-radius:4px;
+}
