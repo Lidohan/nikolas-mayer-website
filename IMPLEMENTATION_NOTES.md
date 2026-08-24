@@ -97,3 +97,8 @@ Still to add later:
 64. Replaced the ESRB favicon with the official ESRB logo_only.svg supplied by the user.
 65. Enlarged proper institutional logos to use most of the blank date-column area; remaining favicon-style institutions stay smaller to avoid pixelation.
 66. Applied institution marks consistently to Home and About in both Czech and English versions.
+
+67. Increased the visible institutional-logo footprint after preview showed the logos were still too small.
+68. EP and European Commission marks are optically scaled inside their date column to compensate for whitespace embedded in the source artwork.
+69. ESRB is enlarged to roughly 92 px; ECB and remaining favicon-based institutions to roughly 72 px on desktop.
+70. The CV date column is widened slightly so the institutional branding fills the available whitespace without colliding with the text.

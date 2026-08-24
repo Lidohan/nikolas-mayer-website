@@ -719,3 +719,115 @@ h3{font-size:18px;line-height:1.25;margin-bottom:8px}
     height:62px;
   }
 }
+
+
+/* 2026-08-24: make the *visible* institutional marks substantially larger.
+   Some official logo files have internal whitespace, so width alone was not enough. */
+
+.cv-period{
+  min-height:92px;
+}
+
+/* Give every mark a larger visual footprint beneath the date. */
+.cv-period .cv-institution-logo{
+  margin-top:14px;
+  transform-origin:left center;
+}
+
+/* EP and EC source files contain considerable internal whitespace.
+   Scale the rendered artwork inside the date column. */
+.cv-logo-ep{
+  width:128px !important;
+  max-width:none !important;
+  max-height:none !important;
+  transform:scale(1.75);
+  margin-top:20px !important;
+  margin-bottom:28px;
+}
+
+.cv-logo-ec{
+  width:128px !important;
+  max-width:none !important;
+  max-height:none !important;
+  transform:scale(1.65);
+  margin-top:19px !important;
+  margin-bottom:24px;
+}
+
+/* ESRB emblem should read as a proper institutional mark, not a favicon. */
+.cv-logo-esrb{
+  width:92px !important;
+  height:92px !important;
+  max-width:92px !important;
+  max-height:92px !important;
+}
+
+/* ECB / BCG / ADL / universities: substantially larger than before. */
+.cv-institution-logo--favicon{
+  width:72px !important;
+  height:72px !important;
+  max-width:72px !important;
+  max-height:72px !important;
+  border-radius:8px !important;
+}
+
+/* Date column needs enough room for the larger marks. */
+.home-grid .cv-entry,
+.full-cv .cv-entry{
+  grid-template-columns:118px 1fr;
+}
+
+/* On the homepage the right-hand CV uses a fixed first column; let logos overflow cleanly. */
+.cv-panel{
+  overflow:visible;
+}
+
+@media(max-width:900px){
+  .home-grid .cv-entry,
+  .full-cv .cv-entry{
+    grid-template-columns:108px 1fr;
+  }
+  .cv-logo-ep{
+    width:112px !important;
+    transform:scale(1.55);
+    margin-bottom:22px;
+  }
+  .cv-logo-ec{
+    width:112px !important;
+    transform:scale(1.48);
+    margin-bottom:20px;
+  }
+  .cv-logo-esrb{
+    width:80px !important;
+    height:80px !important;
+  }
+  .cv-institution-logo--favicon{
+    width:64px !important;
+    height:64px !important;
+  }
+}
+
+@media(max-width:560px){
+  .home-grid .cv-entry,
+  .full-cv .cv-entry{
+    grid-template-columns:92px 1fr;
+  }
+  .cv-logo-ep{
+    width:96px !important;
+    transform:scale(1.35);
+    margin-bottom:18px;
+  }
+  .cv-logo-ec{
+    width:96px !important;
+    transform:scale(1.3);
+    margin-bottom:17px;
+  }
+  .cv-logo-esrb{
+    width:70px !important;
+    height:70px !important;
+  }
+  .cv-institution-logo--favicon{
+    width:58px !important;
+    height:58px !important;
+  }
+}
