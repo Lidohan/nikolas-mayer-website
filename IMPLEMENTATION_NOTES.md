@@ -58,3 +58,10 @@ Still to add later:
 38. Career index now uses concise bullet points followed by a normal-weight explanatory paragraph instead of a long bold block.
 39. Replaced the Gymnázium Matyáše Lercha placeholder with a substantive description of the six-year Czech-French bilingual programme, its science orientation and the user's actual final examinations.
 40. Added official GML sources for the bilingual programme, curriculum, final examinations and graduate certificate (including the mathematics/science focus and at least C1 French).
+
+37. Added three social-profile rows with Facebook, Instagram and TikTok logos, names and exact profile URLs.
+38. Homepage now displays four selected cross-platform videos in a four-column row; Analysis contains all supplied Facebook, Instagram and TikTok videos, four per row on desktop.
+39. Added a short caption under every video card and retained the exact public video URL.
+40. Replaced the Czech Publications page descriptions with Czech text explaining both the document and what each link opens.
+41. Added (N) to publication titles only where the underlying public document/article explicitly contains Nikolas Mayer's name.
+42. Removed wording about the absence of an individual name from Czech publication descriptions.

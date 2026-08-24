@@ -395,3 +395,112 @@ h3{font-size:18px;line-height:1.25;margin-bottom:8px}
   color:#4b4b4b !important;
   margin:0 0 12px !important;
 }
+
+
+/* Social profile rows */
+.social-profiles{
+  margin:22px 0 34px;
+  border-top:1px solid var(--line);
+}
+.social-profile{
+  display:grid;
+  grid-template-columns:32px 120px 1fr;
+  gap:12px;
+  align-items:center;
+  padding:11px 0;
+  border-bottom:1px solid var(--line);
+  font-size:12px;
+}
+.social-profile img{
+  width:24px;height:24px;display:block
+}
+.social-profile strong{font-size:13px}
+.social-profile a{
+  color:var(--muted);
+  text-decoration:none;
+  overflow-wrap:anywhere
+}
+.social-profile a:hover{text-decoration:underline}
+
+/* Cross-platform video cards */
+.video-grid{
+  display:grid;
+  grid-template-columns:repeat(4,minmax(0,1fr));
+  gap:18px;
+  align-items:start;
+}
+.video-card{
+  min-width:0;
+  margin-bottom:18px;
+}
+.video-embed{
+  background:#fff;
+  border:1px solid var(--line);
+  overflow:hidden;
+  aspect-ratio:9/16;
+}
+.video-embed iframe{
+  display:block;
+  width:100%;
+  height:100%;
+  min-height:500px;
+  border:0;
+  background:#fff;
+}
+.video-caption{
+  margin:9px 0 2px;
+  font-size:12px;
+  line-height:1.4;
+  font-weight:600;
+}
+.video-platform{
+  color:var(--muted);
+  font-size:10px;
+  text-transform:uppercase;
+  letter-spacing:.06em;
+}
+.video-url{
+  margin:4px 0 0;
+  font-size:9px;
+  line-height:1.35;
+  color:var(--muted);
+  overflow-wrap:anywhere;
+}
+.video-url a{color:inherit;text-decoration:none}
+.video-url a:hover{text-decoration:underline}
+.platform-section{
+  margin:0 0 58px;
+}
+.platform-section h2{
+  font-size:30px;
+  margin-bottom:18px;
+}
+.platform-section .platform-heading{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  margin-bottom:18px;
+}
+.platform-section .platform-heading img{
+  width:25px;height:25px
+}
+.platform-section .platform-heading h2{
+  margin:0;
+}
+@media(max-width:1050px){
+  .video-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media(max-width:650px){
+  .social-profile{grid-template-columns:28px 90px 1fr}
+  .video-grid{grid-template-columns:1fr}
+  .video-embed iframe{min-height:640px}
+}
+
+/* Czech publication descriptions */
+.publication-row p{
+  font-size:12.5px;
+  line-height:1.55;
+}
+.publication-row h3{
+  line-height:1.25;
+}
