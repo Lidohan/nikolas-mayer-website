@@ -65,3 +65,11 @@ Still to add later:
 40. Replaced the Czech Publications page descriptions with Czech text explaining both the document and what each link opens.
 41. Added (N) to publication titles only where the underlying public document/article explicitly contains Nikolas Mayer's name.
 42. Removed wording about the absence of an individual name from Czech publication descriptions.
+
+43. Homepage social section renamed “Sociální sítě – analýzy” and split into Facebook, Instagram and TikTok.
+44. Homepage now shows 4 videos for each platform (12 total); Analysis keeps all supplied videos, 4 per row on desktop.
+45. Each platform header includes logo, handle/profile link and a data-driven follower-count field.
+46. Removed generic “Ekonomická analýza” and repeated platform labels below each card.
+47. Added data-driven fields for exact video title, short caption-derived description and view count. Unverified values are not fabricated or shown.
+48. Facebook and Instagram retain caption-enabled embeds. TikTok now uses the official embed style that displays the creator and video description.
+49. Exact snapshots belong in assets/social-content.json; the site renders them automatically through assets/social-content.js.

@@ -504,3 +504,77 @@ h3{font-size:18px;line-height:1.25;margin-bottom:8px}
 .publication-row h3{
   line-height:1.25;
 }
+
+
+/* Social media – analysis: one section per platform */
+.social-analysis-title{margin-bottom:34px}
+.social-analysis-platform{margin:0 0 68px}
+.compact-platform-heading{
+  display:grid !important;
+  grid-template-columns:28px auto auto 1fr;
+  gap:10px 12px;
+  align-items:center;
+  padding:11px 0 13px;
+  margin:0 0 20px !important;
+  border-top:1px solid var(--ink);
+  border-bottom:1px solid var(--line);
+}
+.compact-platform-heading img{width:22px !important;height:22px !important}
+.platform-identity{display:flex;align-items:baseline;gap:9px;white-space:nowrap}
+.platform-identity strong{font-size:13px}
+.platform-identity a{font-size:11px;color:var(--muted);text-decoration:none}
+.platform-followers{font-size:11px;color:var(--ink);white-space:nowrap}
+.platform-url{
+  justify-self:end;
+  font-size:10px;
+  color:var(--muted);
+  text-decoration:none;
+  overflow-wrap:anywhere;
+  text-align:right
+}
+.platform-url:hover,.platform-identity a:hover{text-decoration:underline}
+
+.video-info{
+  display:flex;
+  justify-content:space-between;
+  align-items:flex-start;
+  gap:10px;
+  margin-top:10px
+}
+.video-title{
+  font-family:Georgia,"Times New Roman",serif;
+  font-size:16px;
+  line-height:1.25;
+  font-weight:400
+}
+.video-views{
+  flex:0 0 auto;
+  padding-top:3px;
+  font-size:10px;
+  color:var(--muted);
+  white-space:nowrap
+}
+.video-description-box{
+  margin-top:8px;
+  padding:10px 11px;
+  border:1px solid var(--line);
+  background:rgba(255,255,255,.45);
+  font-size:11.5px;
+  line-height:1.48;
+  color:#4b4b4b
+}
+.video-platform,.video-caption{display:none !important}
+.video-embed .tiktok-embed{
+  margin:0 auto !important;
+  min-height:500px;
+  height:100%
+}
+
+@media(max-width:780px){
+  .compact-platform-heading{grid-template-columns:26px 1fr auto}
+  .platform-url{grid-column:2 / -1;justify-self:start;text-align:left}
+}
+@media(max-width:520px){
+  .compact-platform-heading{grid-template-columns:25px 1fr}
+  .platform-followers,.platform-url{grid-column:2}
+}
