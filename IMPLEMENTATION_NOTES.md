@@ -73,3 +73,10 @@ Still to add later:
 47. Added data-driven fields for exact video title, short caption-derived description and view count. Unverified values are not fabricated or shown.
 48. Facebook and Instagram retain caption-enabled embeds. TikTok now uses the official embed style that displays the creator and video description.
 49. Exact snapshots belong in assets/social-content.json; the site renders them automatically through assets/social-content.js.
+
+50. Added exact titles, short descriptions and view-count snapshots for the 4 homepage Facebook, Instagram and TikTok videos using user-supplied captions/metrics.
+51. Added the full supplied caption in a collapsed <details> element, so the page stays compact while crawlers can read the original text.
+52. Mapped the first four Facebook view-count rows supplied by the user to the four displayed Facebook Reels in the same order: 1,552,040; 1,472,819; 1,368,572; 1,110,711.
+53. Replaced TikTok homepage/list positions 2–4 with videos 7385054453071629601, 7400062866868522272 and 7556626282943909142.
+54. Removed Instagram iframes entirely because direct embedding returned “www.instagram.com refused to connect”. Instagram now uses thumbnail/link cards.
+55. The first Instagram Reel uses the supplied Insta1.png thumbnail. Only one thumbnail file was received in this message; the other known Instagram videos use title cards until their thumbnails are supplied.
