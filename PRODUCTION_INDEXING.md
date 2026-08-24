@@ -30,5 +30,5 @@ birthDate was removed from Person JSON-LD because it was not visible on the site
 Do not add crawler-only personal facts that are absent from the human-readable site.
 
 ## Images
-Institution marks are served locally from /assets/institutions/.
+Most institution marks are served locally from /assets/institutions/. European Parliament and ESRB deliberately use the exact authoritative image URLs selected by the site owner rather than locally recreated placeholder artwork.
 Instagram social thumbnails use descriptive local WebP filenames.

@@ -117,3 +117,10 @@ Still to add later:
 81. Trimmed exterior white canvas from supplied logos without removing enclosed white details inside crests/logomarks.
 82. Removed the earlier CSS scale-transform workaround. Supplied logos now use institution-specific optical sizes up to roughly 112 px wide / 82 px high and fill the date column substantially better.
 83. All supplied logos are served locally under /assets/institutions/; no supplied logo is hotlinked.
+
+84. Removed the incorrect locally generated European Parliament and ESRB placeholder SVGs.
+85. European Parliament now uses exactly the Wikimedia European Parliament logo selected by the user:
+    https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/European_Parliament_logo.svg/250px-European_Parliament_logo.svg.png
+86. ESRB now uses exactly the official ESRB logo_only.svg selected by the user:
+    https://www.esrb.europa.eu/shared/img/logo/logo_only.svg
+87. EP/ESRB CSS no longer uses scaling hacks or recreated artwork; only optical dimensions are set.
