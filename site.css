@@ -831,3 +831,77 @@ h3{font-size:18px;line-height:1.25;margin-bottom:8px}
     height:58px !important;
   }
 }
+
+
+/* FINAL CV LOGO SIZING — supplied institution artwork, 2026-08-24
+   These rules intentionally override the earlier favicon/transform experiments. */
+.cv-period{
+  min-height:108px !important;
+  overflow:visible !important;
+}
+.cv-period .cv-institution-logo{
+  display:block !important;
+  transform:none !important;
+  transform-origin:left top !important;
+  object-fit:contain !important;
+  object-position:left center !important;
+  margin:12px 0 0 0 !important;
+  border-radius:0 !important;
+  width:auto !important;
+  height:auto !important;
+  max-width:112px !important;
+  max-height:82px !important;
+}
+
+/* Wide marks */
+.cv-period .cv-logo-ec{max-width:114px !important;max-height:78px !important}
+.cv-period .cv-logo-gml{max-width:108px !important;max-height:62px !important}
+
+/* Square / emblem marks */
+.cv-period .cv-logo-ecb{width:82px !important;height:82px !important;max-width:82px !important;max-height:82px !important}
+.cv-period .cv-logo-bcg{width:86px !important;height:86px !important;max-width:86px !important;max-height:86px !important}
+.cv-period .cv-logo-lse{width:80px !important;height:80px !important;max-width:80px !important;max-height:80px !important}
+.cv-period .cv-logo-warwick{max-width:76px !important;max-height:82px !important}
+.cv-period .cv-logo-hsg{max-width:84px !important;max-height:82px !important}
+.cv-period .cv-logo-adl{max-width:76px !important;max-height:82px !important}
+.cv-period .cv-logo-permrep{width:72px !important;height:72px !important;max-width:72px !important;max-height:72px !important}
+
+/* Keep the previously selected EP/ESRB assets visually comparable. */
+.cv-period .cv-logo-ep{
+  transform:none !important;
+  width:auto !important;
+  max-width:112px !important;
+  max-height:78px !important;
+  margin:12px 0 0 0 !important;
+}
+.cv-period .cv-logo-esrb{
+  transform:none !important;
+  width:82px !important;
+  height:82px !important;
+  max-width:82px !important;
+  max-height:82px !important;
+  margin:12px 0 0 0 !important;
+}
+
+.home-grid .cv-entry,
+.full-cv .cv-entry{
+  grid-template-columns:122px 1fr !important;
+}
+
+@media(max-width:700px){
+  .home-grid .cv-entry,
+  .full-cv .cv-entry{
+    grid-template-columns:100px 1fr !important;
+  }
+  .cv-period .cv-institution-logo{
+    max-width:90px !important;
+    max-height:70px !important;
+  }
+  .cv-period .cv-logo-ecb,
+  .cv-period .cv-logo-bcg,
+  .cv-period .cv-logo-lse,
+  .cv-period .cv-logo-esrb{
+    width:68px !important;
+    height:68px !important;
+  }
+}

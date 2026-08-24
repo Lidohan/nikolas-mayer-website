@@ -112,3 +112,8 @@ Still to add later:
 77. Removed all third-party institution image hotlinks; CV institution images are now local under /assets/institutions/.
 78. Renamed and converted the four Instagram thumbnails to descriptive WebP filenames.
 79. robots.txt and the origin Content-Signal explicitly permit search, AI input/grounding and AI training, with use=full.
+
+80. Replaced the generated/placeholder institution marks with the exact logo image files supplied by the user for European Commission, ECB, BCG, Arthur D. Little, Czech Permanent Representation, University of St. Gallen, LSE, University of Warwick and Gymnázium Matyáše Lercha.
+81. Trimmed exterior white canvas from supplied logos without removing enclosed white details inside crests/logomarks.
+82. Removed the earlier CSS scale-transform workaround. Supplied logos now use institution-specific optical sizes up to roughly 112 px wide / 82 px high and fill the date column substantially better.
+83. All supplied logos are served locally under /assets/institutions/; no supplied logo is hotlinked.
