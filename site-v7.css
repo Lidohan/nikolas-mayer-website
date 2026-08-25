@@ -949,3 +949,23 @@ h3{font-size:18px;line-height:1.25;margin-bottom:8px}
   }
 }
 
+
+
+/* FINAL HOMEPAGE INTRO TYPOGRAPHY — cache-busted v7 */
+body .home-intro .identity > h1,
+body .home-intro .identity > p.lead,
+body .home-intro .identity > p.sublead {
+  font-family: Georgia, "Times New Roman", serif !important;
+  font-size: 19px !important;
+  line-height: 1.5 !important;
+  letter-spacing: 0 !important;
+  max-width: 560px !important;
+}
+body .home-intro .identity > h1 {
+  font-weight: 700 !important;
+  margin: 0 0 18px !important;
+}
+body .home-intro .identity > p.lead,
+body .home-intro .identity > p.sublead {
+  font-weight: 400 !important;
+}
