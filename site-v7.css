@@ -969,3 +969,37 @@ body .home-intro .identity > p.lead,
 body .home-intro .identity > p.sublead {
   font-weight: 400 !important;
 }
+
+
+/* Homepage intro typography: one font and one size for all intro text */
+.identity .intro-text,
+.identity h1.intro-text {
+  font-family: Georgia, "Times New Roman", serif !important;
+  font-size: 19px !important;
+  line-height: 1.5 !important;
+  font-weight: 400 !important;
+  letter-spacing: 0 !important;
+  max-width: 560px !important;
+}
+
+.identity h1.intro-title {
+  font-weight: 700 !important;
+  margin: 0 0 18px !important;
+}
+
+.identity p.intro-text {
+  margin: 18px 0 0 !important;
+}
+
+.identity p.intro-text:first-of-type {
+  margin-top: 0 !important;
+}
+
+@media (max-width: 560px) {
+  .identity .intro-text,
+  .identity h1.intro-text {
+    font-size: 19px !important;
+    line-height: 1.5 !important;
+    max-width: none !important;
+  }
+}
