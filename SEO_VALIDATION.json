@@ -1,324 +1,293 @@
 {
   "generated": "2026-08-25",
-  "public_html_pages": 38,
-  "all_html_pages": 39,
-  "sitemap_urls": 38,
-  "public_pages_with_complete_person_sameAs": 38,
-  "website_schema_nodes": 1,
-  "jsonld_parse_errors": [],
-  "external_img_refs": [
-    {
-      "page": "en/about/index.html",
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/European_Parliament_logo.svg/250px-European_Parliament_logo.svg.png"
-    },
-    {
-      "page": "en/about/index.html",
-      "src": "https://www.esrb.europa.eu/shared/img/logo/logo_only.svg"
-    },
-    {
-      "page": "en/index.html",
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/European_Parliament_logo.svg/250px-European_Parliament_logo.svg.png"
-    },
-    {
-      "page": "en/index.html",
-      "src": "https://www.esrb.europa.eu/shared/img/logo/logo_only.svg"
-    },
-    {
-      "page": "index.html",
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/European_Parliament_logo.svg/250px-European_Parliament_logo.svg.png"
-    },
-    {
-      "page": "index.html",
-      "src": "https://www.esrb.europa.eu/shared/img/logo/logo_only.svg"
-    },
-    {
-      "page": "o-mne/index.html",
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/European_Parliament_logo.svg/250px-European_Parliament_logo.svg.png"
-    },
-    {
-      "page": "o-mne/index.html",
-      "src": "https://www.esrb.europa.eu/shared/img/logo/logo_only.svg"
-    }
-  ],
-  "external_img_ref_count": 8,
-  "external_img_note": "Intentional exact-brand hotlinks for European Parliament and ESRB remain because the exact binary assets are not contained in the supplied build; validation now reports them accurately rather than falsely returning zero.",
-  "missing_internal_refs": [],
-  "meta_stats": [
-    {
-      "page": "404.html",
-      "title_len": 19,
-      "description_len": 0,
-      "title": "404 — Nikolas Mayer",
-      "description": ""
-    },
-    {
-      "page": "analyzy/index.html",
-      "title_len": 23,
-      "description_len": 121,
-      "title": "Analýzy — Nikolas Mayer",
-      "description": "Analýzy české ekonomiky, finančních trhů a evropské politiky od Nikolase Mayera založené na datech a primárních zdrojích."
-    },
-    {
-      "page": "en/about/index.html",
-      "title_len": 31,
-      "description_len": 137,
-      "title": "About Nikolas Mayer — Economist",
-      "description": "Biography of Nikolas Mayer, covering the European Parliament, European Commission, ECB, consulting, LSE and the University of St. Gallen."
-    },
-    {
-      "page": "en/analysis/index.html",
-      "title_len": 24,
-      "description_len": 130,
-      "title": "Analysis — Nikolas Mayer",
-      "description": "Economic analysis by Nikolas Mayer on the Czech economy, financial markets and European policy, based on data and primary sources."
-    },
-    {
-      "page": "en/career/arthur-d-little/index.html",
-      "title_len": 51,
-      "description_len": 123,
-      "title": "Arthur D. Little — Nikolas Mayer | Research Analyst",
-      "description": "At Arthur D. Little I analysed financial data and investment options for a strategy engagement with a large energy company."
-    },
-    {
-      "page": "en/career/boston-consulting-group/index.html",
-      "title_len": 60,
-      "description_len": 124,
-      "title": "Boston Consulting Group — Nikolas Mayer | Visiting Associate",
-      "description": "At Boston Consulting Group I worked on market analysis and pricing strategy for the launch of a new mobile-network operator."
-    },
-    {
-      "page": "en/career/czech-permanent-representation-to-eu/index.html",
-      "title_len": 56,
-      "description_len": 144,
-      "title": "Czech Permanent Representation to the EU | Nikolas Mayer",
-      "description": "At the Czech Permanent Representation to the EU I worked on financial regulation, Council negotiations and analysis for the Ministry of Finance."
-    },
-    {
-      "page": "en/career/ecb-bond-and-international-markets/index.html",
-      "title_len": 52,
-      "description_len": 140,
-      "title": "ECB — Bond and International Markets | Nikolas Mayer",
-      "description": "At the ECB I analysed bond and foreign-exchange markets, portfolios and market risks and prepared material for central-bank decision-making."
-    },
-    {
-      "page": "en/career/ecb-macroprudential-policy/index.html",
-      "title_len": 44,
-      "description_len": 133,
-      "title": "ECB — Macroprudential Policy | Nikolas Mayer",
-      "description": "At the ECB I analysed financial stability, bank capital requirements and their effect on credit supply using granular AnaCredit data."
-    },
-    {
-      "page": "en/career/ecb-supervisory-banking-statistics/index.html",
-      "title_len": 52,
-      "description_len": 131,
-      "title": "ECB — Supervisory Banking Statistics | Nikolas Mayer",
-      "description": "At the ECB I worked on supervisory banking data infrastructure, data quality and indicators for capital, liquidity and credit risk."
-    },
-    {
-      "page": "en/career/esrb-systemic-risk-analysis/index.html",
-      "title_len": 45,
-      "description_len": 135,
-      "title": "ESRB — Systemic Risk Analysis | Nikolas Mayer",
-      "description": "At the ESRB Secretariat I analysed systemic risks, worked on the Systemic Risk Survey and prepared material for the ESRB General Board."
-    },
-    {
-      "page": "en/career/european-commission-dg-ecfin/index.html",
-      "title_len": 43,
-      "description_len": 145,
-      "title": "DG ECFIN — Nikolas Mayer | Economic Analyst",
-      "description": "Nikolas Mayer worked in DG ECFIN on macroeconomic forecasts, the European Semester, fiscal surveillance and the Recovery and Resilience Facility."
-    },
-    {
-      "page": "en/career/european-commission-traineeship-macroeconomic-imbalances/index.html",
-      "title_len": 51,
-      "description_len": 134,
-      "title": "DG ECFIN — Macroeconomic Imbalances | Nikolas Mayer",
-      "description": "During my DG ECFIN traineeship I worked on macroeconomic imbalances in Sweden and the United Kingdom and developed econometric models."
-    },
-    {
-      "page": "en/career/european-parliament/index.html",
-      "title_len": 51,
-      "description_len": 131,
-      "title": "European Parliament — Nikolas Mayer | ECON and BUDG",
-      "description": "Nikolas Mayer works at the European Parliament on economic, financial-services and budgetary policy, including ECON and BUDG files."
-    },
-    {
-      "page": "en/career/gymnazium-matyase-lercha/index.html",
-      "title_len": 40,
-      "description_len": 111,
-      "title": "Gymnázium Matyáše Lercha — Nikolas Mayer",
-      "description": "Nikolas Mayer attended the bilingual Gymnázium Matyáše Lercha in Brno, with selected subjects taught in French."
-    },
-    {
-      "page": "en/career/index.html",
-      "title_len": 62,
-      "description_len": 156,
-      "title": "Career — Nikolas Mayer | professional experience and education",
-      "description": "Detailed professional experience and education of Nikolas Mayer across the European Parliament, European Commission, ECB, consulting and university studies."
-    },
-    {
-      "page": "en/career/london-school-of-economics/index.html",
-      "title_len": 46,
-      "description_len": 123,
-      "title": "LSE — Government and Economics | Nikolas Mayer",
-      "description": "Nikolas Mayer completed the BSc Government and Economics at the London School of Economics with Upper Second Class Honours."
-    },
-    {
-      "page": "en/career/university-of-st-gallen/index.html",
-      "title_len": 65,
-      "description_len": 122,
-      "title": "University of St. Gallen — Quantitative Economics | Nikolas Mayer",
-      "description": "Nikolas Mayer completed the M.A. HSG in Quantitative Economics and Finance and wrote a master’s thesis on GDP forecasting."
-    },
-    {
-      "page": "en/career/university-of-warwick/index.html",
-      "title_len": 62,
-      "description_len": 122,
-      "title": "University of Warwick — Economics and Politics | Nikolas Mayer",
-      "description": "Nikolas Mayer studied Economics, Politics and International Studies at the University of Warwick before moving to the LSE."
-    },
-    {
-      "page": "en/index.html",
-      "title_len": 52,
-      "description_len": 125,
-      "title": "Nikolas Mayer — Economist | European economic policy",
-      "description": "Nikolas Mayer is a Czech economist with experience at the European Parliament, European Commission and European Central Bank."
-    },
-    {
-      "page": "en/publications/index.html",
-      "title_len": 47,
-      "description_len": 128,
-      "title": "Publications and public outputs — Nikolas Mayer",
-      "description": "Comprehensive list of public publications, institutional outputs and documents connected with Nikolas Mayer's professional work."
-    },
-    {
-      "page": "index.html",
-      "title_len": 54,
-      "description_len": 113,
-      "title": "Nikolas Mayer — ekonom | evropská hospodářská politika",
-      "description": "Nikolas Mayer je český ekonom se zkušenostmi z Evropského parlamentu, Evropské komise a Evropské centrální banky."
-    },
-    {
-      "page": "kariera/arthur-d-little/index.html",
-      "title_len": 43,
-      "description_len": 125,
-      "title": "Arthur D. Little — Nikolas Mayer | analytik",
-      "description": "V Arthur D. Little jsem analyzoval finanční data a investiční varianty pro strategický projekt velké energetické společnosti."
-    },
-    {
-      "page": "kariera/boston-consulting-group/index.html",
-      "title_len": 52,
-      "description_len": 120,
-      "title": "Boston Consulting Group — Nikolas Mayer | konzultant",
-      "description": "V Boston Consulting Group jsem pracoval na strategii vstupu nového mobilního operátora, analýze trhu a cenové strategii."
-    },
-    {
-      "page": "kariera/ecb-dluhopisove-a-mezinarodni-trhy/index.html",
-      "title_len": 52,
-      "description_len": 131,
-      "title": "ECB — Dluhopisové a mezinárodní trhy | Nikolas Mayer",
-      "description": "V ECB jsem analyzoval dluhopisové a devizové trhy, portfolia a tržní rizika a připravoval podklady pro rozhodování centrální banky."
-    },
-    {
-      "page": "kariera/ecb-makroobezretnostni-politika/index.html",
-      "title_len": 49,
-      "description_len": 128,
-      "title": "ECB — Makroobezřetnostní politika | Nikolas Mayer",
-      "description": "V ECB jsem analyzoval finanční stabilitu, kapitálové požadavky bank a jejich dopad na úvěrovou nabídku s využitím AnaCredit dat."
-    },
-    {
-      "page": "kariera/ecb-statistika-bankovniho-dohledu/index.html",
-      "title_len": 51,
-      "description_len": 139,
-      "title": "ECB — Statistika bankovního dohledu | Nikolas Mayer",
-      "description": "V ECB jsem pracoval s datovou infrastrukturou bankovního dohledu, kontrolou kvality dat a ukazateli kapitálu, likvidity a úvěrového rizika."
-    },
-    {
-      "page": "kariera/esrb-analyza-systemovych-rizik/index.html",
-      "title_len": 48,
-      "description_len": 134,
-      "title": "ESRB — Analýza systémových rizik | Nikolas Mayer",
-      "description": "V sekretariátu ESRB jsem analyzoval systémová rizika, pracoval na Systemic Risk Survey a připravoval podklady pro Generální radu ESRB."
-    },
-    {
-      "page": "kariera/evropska-komise-dg-ecfin/index.html",
-      "title_len": 46,
-      "description_len": 124,
-      "title": "DG ECFIN — Nikolas Mayer | ekonomický analytik",
-      "description": "Nikolas Mayer působil v DG ECFIN jako ekonomický analytik se zaměřením na prognózy, Evropský semestr, fiskální dohled a RRF."
-    },
-    {
-      "page": "kariera/evropska-komise-staz-makroekonomicke-nerovnovahy/index.html",
-      "title_len": 54,
-      "description_len": 135,
-      "title": "DG ECFIN — Makroekonomické nerovnováhy | Nikolas Mayer",
-      "description": "Během stáže v DG ECFIN jsem pracoval na makroekonomických nerovnováhách ve Švédsku a Spojeném království a na ekonometrických modelech."
-    },
-    {
-      "page": "kariera/evropsky-parlament/index.html",
-      "title_len": 48,
-      "description_len": 109,
-      "title": "Evropský parlament — Nikolas Mayer | ECON a BUDG",
-      "description": "Práce Nikolase Mayera v Evropském parlamentu na hospodářské, finanční a rozpočtové agendě výborů ECON a BUDG."
-    },
-    {
-      "page": "kariera/gymnazium-matyase-lercha/index.html",
-      "title_len": 40,
-      "description_len": 115,
-      "title": "Gymnázium Matyáše Lercha — Nikolas Mayer",
-      "description": "Nikolas Mayer studoval na dvojjazyčném Gymnáziu Matyáše Lercha v Brně s výukou vybraných předmětů ve francouzštině."
-    },
-    {
-      "page": "kariera/index.html",
-      "title_len": 56,
-      "description_len": 142,
-      "title": "Kariéra — Nikolas Mayer | profesní zkušenosti a vzdělání",
-      "description": "Detailní profesní zkušenosti a vzdělání Nikolase Mayera od Evropského parlamentu přes Komisi a ECB po poradenské role a vysokoškolské studium."
-    },
-    {
-      "page": "kariera/london-school-of-economics/index.html",
-      "title_len": 46,
-      "description_len": 114,
-      "title": "LSE — Government and Economics | Nikolas Mayer",
-      "description": "Na London School of Economics jsem absolvoval BSc Government and Economics s výsledkem Upper Second Class Honours."
-    },
-    {
-      "page": "kariera/stale-zastoupeni-ceske-republiky-pri-eu/index.html",
-      "title_len": 42,
-      "description_len": 138,
-      "title": "Stálé zastoupení ČR při EU | Nikolas Mayer",
-      "description": "Na Stálém zastoupení ČR při EU jsem sledoval finanční regulaci, jednání Rady EU a připravoval analytické souhrny pro Ministerstvo financí."
-    },
-    {
-      "page": "kariera/university-of-st-gallen/index.html",
-      "title_len": 65,
-      "description_len": 133,
-      "title": "University of St. Gallen — Quantitative Economics | Nikolas Mayer",
-      "description": "Na University of St. Gallen jsem absolvoval M.A. HSG v Quantitative Economics and Finance a psal diplomovou práci o prognózování HDP."
-    },
-    {
-      "page": "kariera/university-of-warwick/index.html",
-      "title_len": 59,
-      "description_len": 130,
-      "title": "University of Warwick — ekonomie a politika | Nikolas Mayer",
-      "description": "Na University of Warwick jsem studoval Economics, Politics and International Studies před přechodem na London School of Economics."
-    },
-    {
-      "page": "o-mne/index.html",
-      "title_len": 30,
-      "description_len": 113,
-      "title": "O mně — Nikolas Mayer | ekonom",
-      "description": "Životopis Nikolase Mayera: Evropský parlament, Evropská komise, ECB, poradenství, LSE a University of St. Gallen."
-    },
-    {
-      "page": "publikace/index.html",
-      "title_len": 43,
-      "description_len": 119,
-      "title": "Publikace a veřejné výstupy — Nikolas Mayer",
-      "description": "Kompletní seznam veřejných publikací, institucionálních výstupů a dokumentů spojených s profesní prací Nikolase Mayera."
-    }
-  ],
-  "robots_txt": "# Nikolas Mayer — crawler permissions\n# Search indexing, AI grounding/input and AI model training are permitted.\n\nUser-agent: *\nContent-signal: search=yes, ai-input=yes, ai-train=yes, use=full\nAllow: /\n\nSitemap: https://nikolasmayer.com/sitemap.xml\n",
+  "summary": {
+    "public_pages": 38,
+    "sitemap_urls": 38,
+    "validation_issues": 0,
+    "person_sameAs_complete_pages": 38,
+    "website_schema_nodes": 1,
+    "external_img_urls": [
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/European_Parliament_logo.svg/250px-European_Parliament_logo.svg.png",
+      "https://www.esrb.europa.eu/shared/img/logo/logo_only.svg"
+    ],
+    "retired_phrases_remaining": [],
+    "publication_N_heading_markers_remaining": 0,
+    "robots_txt": "# Nikolas Mayer — crawler permissions\n# Search indexing, AI grounding/input and AI model training are permitted.\n\nUser-agent: *\nContent-signal: search=yes, ai-input=yes, ai-train=yes, use=full\nAllow: /\n\nSitemap: https://nikolasmayer.com/sitemap.xml"
+  },
+  "identity_checks": {
+    "cz_visible_prognostik_a_ekonom": true,
+    "cz_visible_7_let_centralni_banky": true,
+    "cz_personal_motivation": true,
+    "en_visible_economist_forecaster": true,
+    "en_visible_7_years_central_banking": true
+  },
   "issues": [],
-  "status": "PASS_WITH_APPROVED_EXTERNAL_IMAGES"
+  "pages": [
+    {
+      "file": "analyzy/index.html",
+      "title": "Analýzy — Nikolas Mayer",
+      "title_length": 23,
+      "description_length": 121,
+      "canonical": "https://nikolasmayer.com/analyzy/"
+    },
+    {
+      "file": "en/about/index.html",
+      "title": "About Nikolas Mayer — Economist and Forecaster",
+      "title_length": 46,
+      "description_length": 157,
+      "canonical": "https://nikolasmayer.com/en/about/"
+    },
+    {
+      "file": "en/analysis/index.html",
+      "title": "Analysis — Nikolas Mayer",
+      "title_length": 24,
+      "description_length": 130,
+      "canonical": "https://nikolasmayer.com/en/analysis/"
+    },
+    {
+      "file": "en/career/arthur-d-little/index.html",
+      "title": "Arthur D. Little — Nikolas Mayer | Research Analyst",
+      "title_length": 51,
+      "description_length": 123,
+      "canonical": "https://nikolasmayer.com/en/career/arthur-d-little/"
+    },
+    {
+      "file": "en/career/boston-consulting-group/index.html",
+      "title": "Boston Consulting Group — Nikolas Mayer | Visiting Associate",
+      "title_length": 60,
+      "description_length": 124,
+      "canonical": "https://nikolasmayer.com/en/career/boston-consulting-group/"
+    },
+    {
+      "file": "en/career/czech-permanent-representation-to-eu/index.html",
+      "title": "Czech Permanent Representation to the EU | Nikolas Mayer",
+      "title_length": 56,
+      "description_length": 144,
+      "canonical": "https://nikolasmayer.com/en/career/czech-permanent-representation-to-eu/"
+    },
+    {
+      "file": "en/career/ecb-bond-and-international-markets/index.html",
+      "title": "ECB — Bond and International Markets | Nikolas Mayer",
+      "title_length": 52,
+      "description_length": 140,
+      "canonical": "https://nikolasmayer.com/en/career/ecb-bond-and-international-markets/"
+    },
+    {
+      "file": "en/career/ecb-macroprudential-policy/index.html",
+      "title": "ECB — Macroprudential Policy | Nikolas Mayer",
+      "title_length": 44,
+      "description_length": 133,
+      "canonical": "https://nikolasmayer.com/en/career/ecb-macroprudential-policy/"
+    },
+    {
+      "file": "en/career/ecb-supervisory-banking-statistics/index.html",
+      "title": "ECB — Supervisory Banking Statistics | Nikolas Mayer",
+      "title_length": 52,
+      "description_length": 131,
+      "canonical": "https://nikolasmayer.com/en/career/ecb-supervisory-banking-statistics/"
+    },
+    {
+      "file": "en/career/esrb-systemic-risk-analysis/index.html",
+      "title": "ESRB — Systemic Risk Analysis | Nikolas Mayer",
+      "title_length": 45,
+      "description_length": 135,
+      "canonical": "https://nikolasmayer.com/en/career/esrb-systemic-risk-analysis/"
+    },
+    {
+      "file": "en/career/european-commission-dg-ecfin/index.html",
+      "title": "DG ECFIN — Nikolas Mayer | Economic Analyst",
+      "title_length": 43,
+      "description_length": 145,
+      "canonical": "https://nikolasmayer.com/en/career/european-commission-dg-ecfin/"
+    },
+    {
+      "file": "en/career/european-commission-traineeship-macroeconomic-imbalances/index.html",
+      "title": "DG ECFIN — Macroeconomic Imbalances | Nikolas Mayer",
+      "title_length": 51,
+      "description_length": 134,
+      "canonical": "https://nikolasmayer.com/en/career/european-commission-traineeship-macroeconomic-imbalances/"
+    },
+    {
+      "file": "en/career/european-parliament/index.html",
+      "title": "European Parliament — Nikolas Mayer | ECON and BUDG",
+      "title_length": 51,
+      "description_length": 131,
+      "canonical": "https://nikolasmayer.com/en/career/european-parliament/"
+    },
+    {
+      "file": "en/career/gymnazium-matyase-lercha/index.html",
+      "title": "Gymnázium Matyáše Lercha — Nikolas Mayer",
+      "title_length": 40,
+      "description_length": 111,
+      "canonical": "https://nikolasmayer.com/en/career/gymnazium-matyase-lercha/"
+    },
+    {
+      "file": "en/career/index.html",
+      "title": "Career — Nikolas Mayer | professional experience and education",
+      "title_length": 62,
+      "description_length": 161,
+      "canonical": "https://nikolasmayer.com/en/career/"
+    },
+    {
+      "file": "en/career/london-school-of-economics/index.html",
+      "title": "LSE — Government and Economics | Nikolas Mayer",
+      "title_length": 46,
+      "description_length": 123,
+      "canonical": "https://nikolasmayer.com/en/career/london-school-of-economics/"
+    },
+    {
+      "file": "en/career/university-of-st-gallen/index.html",
+      "title": "University of St. Gallen — Quantitative Economics | Nikolas Mayer",
+      "title_length": 65,
+      "description_length": 122,
+      "canonical": "https://nikolasmayer.com/en/career/university-of-st-gallen/"
+    },
+    {
+      "file": "en/career/university-of-warwick/index.html",
+      "title": "University of Warwick — Economics and Politics | Nikolas Mayer",
+      "title_length": 62,
+      "description_length": 122,
+      "canonical": "https://nikolasmayer.com/en/career/university-of-warwick/"
+    },
+    {
+      "file": "en/index.html",
+      "title": "Nikolas Mayer — Economist and Forecaster | ECB & European Commission",
+      "title_length": 68,
+      "description_length": 157,
+      "canonical": "https://nikolasmayer.com/en/"
+    },
+    {
+      "file": "en/publications/index.html",
+      "title": "Publications and public outputs — Nikolas Mayer",
+      "title_length": 47,
+      "description_length": 164,
+      "canonical": "https://nikolasmayer.com/en/publications/"
+    },
+    {
+      "file": "index.html",
+      "title": "Nikolas Mayer — prognostik a ekonom | ECB a Evropská komise",
+      "title_length": 59,
+      "description_length": 131,
+      "canonical": "https://nikolasmayer.com/"
+    },
+    {
+      "file": "kariera/arthur-d-little/index.html",
+      "title": "Arthur D. Little — Nikolas Mayer | analytik",
+      "title_length": 43,
+      "description_length": 125,
+      "canonical": "https://nikolasmayer.com/kariera/arthur-d-little/"
+    },
+    {
+      "file": "kariera/boston-consulting-group/index.html",
+      "title": "Boston Consulting Group — Nikolas Mayer | konzultant",
+      "title_length": 52,
+      "description_length": 120,
+      "canonical": "https://nikolasmayer.com/kariera/boston-consulting-group/"
+    },
+    {
+      "file": "kariera/ecb-dluhopisove-a-mezinarodni-trhy/index.html",
+      "title": "ECB — Dluhopisové a mezinárodní trhy | Nikolas Mayer",
+      "title_length": 52,
+      "description_length": 131,
+      "canonical": "https://nikolasmayer.com/kariera/ecb-dluhopisove-a-mezinarodni-trhy/"
+    },
+    {
+      "file": "kariera/ecb-makroobezretnostni-politika/index.html",
+      "title": "ECB — Makroobezřetnostní politika | Nikolas Mayer",
+      "title_length": 49,
+      "description_length": 128,
+      "canonical": "https://nikolasmayer.com/kariera/ecb-makroobezretnostni-politika/"
+    },
+    {
+      "file": "kariera/ecb-statistika-bankovniho-dohledu/index.html",
+      "title": "ECB — Statistika bankovního dohledu | Nikolas Mayer",
+      "title_length": 51,
+      "description_length": 139,
+      "canonical": "https://nikolasmayer.com/kariera/ecb-statistika-bankovniho-dohledu/"
+    },
+    {
+      "file": "kariera/esrb-analyza-systemovych-rizik/index.html",
+      "title": "ESRB — Analýza systémových rizik | Nikolas Mayer",
+      "title_length": 48,
+      "description_length": 134,
+      "canonical": "https://nikolasmayer.com/kariera/esrb-analyza-systemovych-rizik/"
+    },
+    {
+      "file": "kariera/evropska-komise-dg-ecfin/index.html",
+      "title": "DG ECFIN — Nikolas Mayer | ekonomický analytik",
+      "title_length": 46,
+      "description_length": 124,
+      "canonical": "https://nikolasmayer.com/kariera/evropska-komise-dg-ecfin/"
+    },
+    {
+      "file": "kariera/evropska-komise-staz-makroekonomicke-nerovnovahy/index.html",
+      "title": "DG ECFIN — Makroekonomické nerovnováhy | Nikolas Mayer",
+      "title_length": 54,
+      "description_length": 135,
+      "canonical": "https://nikolasmayer.com/kariera/evropska-komise-staz-makroekonomicke-nerovnovahy/"
+    },
+    {
+      "file": "kariera/evropsky-parlament/index.html",
+      "title": "Evropský parlament — Nikolas Mayer | ECON a BUDG",
+      "title_length": 48,
+      "description_length": 109,
+      "canonical": "https://nikolasmayer.com/kariera/evropsky-parlament/"
+    },
+    {
+      "file": "kariera/gymnazium-matyase-lercha/index.html",
+      "title": "Gymnázium Matyáše Lercha — Nikolas Mayer",
+      "title_length": 40,
+      "description_length": 115,
+      "canonical": "https://nikolasmayer.com/kariera/gymnazium-matyase-lercha/"
+    },
+    {
+      "file": "kariera/index.html",
+      "title": "Kariéra — Nikolas Mayer | profesní zkušenosti a vzdělání",
+      "title_length": 56,
+      "description_length": 152,
+      "canonical": "https://nikolasmayer.com/kariera/"
+    },
+    {
+      "file": "kariera/london-school-of-economics/index.html",
+      "title": "LSE — Government and Economics | Nikolas Mayer",
+      "title_length": 46,
+      "description_length": 114,
+      "canonical": "https://nikolasmayer.com/kariera/london-school-of-economics/"
+    },
+    {
+      "file": "kariera/stale-zastoupeni-ceske-republiky-pri-eu/index.html",
+      "title": "Stálé zastoupení ČR při EU | Nikolas Mayer",
+      "title_length": 42,
+      "description_length": 138,
+      "canonical": "https://nikolasmayer.com/kariera/stale-zastoupeni-ceske-republiky-pri-eu/"
+    },
+    {
+      "file": "kariera/university-of-st-gallen/index.html",
+      "title": "University of St. Gallen — Quantitative Economics | Nikolas Mayer",
+      "title_length": 65,
+      "description_length": 133,
+      "canonical": "https://nikolasmayer.com/kariera/university-of-st-gallen/"
+    },
+    {
+      "file": "kariera/university-of-warwick/index.html",
+      "title": "University of Warwick — ekonomie a politika | Nikolas Mayer",
+      "title_length": 59,
+      "description_length": 130,
+      "canonical": "https://nikolasmayer.com/kariera/university-of-warwick/"
+    },
+    {
+      "file": "o-mne/index.html",
+      "title": "O mně — Nikolas Mayer | prognostik a ekonom",
+      "title_length": 43,
+      "description_length": 140,
+      "canonical": "https://nikolasmayer.com/o-mne/"
+    },
+    {
+      "file": "publikace/index.html",
+      "title": "Publikace a veřejné výstupy — Nikolas Mayer",
+      "title_length": 43,
+      "description_length": 158,
+      "canonical": "https://nikolasmayer.com/publikace/"
+    }
+  ]
 }
