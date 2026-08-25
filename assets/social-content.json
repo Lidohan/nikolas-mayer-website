@@ -28,7 +28,7 @@
       "platform": "facebook",
       "title": "Nejhorší dostupnost bydlení v Evropě",
       "description": "Sto metrový byt stojí v Česku podle srovnání 297 platů. Pokud by domácnost ukládala polovinu čisté mzdy, na rodinný byt by šetřila přibližně 50 let.",
-      "full_caption": "Nejhorší dostupnost bydlení z celé Evropy je v České republice a na Slovensku. 100 metrový byt stojí 297 platů, pokud ušetříte polovinu své čisté mzdy bude Vám trvat 50 let našetřit na byt pro rodinu.",
+      "full_caption": "Nejhorší dostupnost bydlení z celé Evropy je v České republice a na Slovensku. 100metrový byt stojí 297 platů, pokud ušetříte polovinu své čisté mzdy bude Vám trvat 50 let našetřit na byt pro rodinu.",
       "views": 1368572,
       "views_as_of": "2026-08-24",
       "thumbnail": null
@@ -54,8 +54,8 @@
     "https://www.facebook.com/reel/1362864018025521": {
       "platform": "facebook",
       "title": "Kolik stojí bydlení v českých městech?",
-      "description": "Olomouc je cenami skoro na úrovni Bruselu, Brno dražší než Madrid a Pisárky podobné Praze. Na Praze 1 ceny překračují 200 000 Kč za m².",
-      "full_caption": "Pokud hledáte bydlení, připravte se na cestu Evropou. U nás je často dražší než v mnoha bohatších zemích: Olomouc skoro jako Brusel, Brno dražší než Madrid a Pisárky podobné Praze. Na Praze 1 přes 200 000 Kč/m²! Zdroj dat jsou Realitymix, data o Belgii z Immoweb, Madrid z Statista, Brno Pisárky z Data.Brno.",
+      "description": "Olomouc je cenami skoro na úrovni Bruselu, Brno dražší než Madrid a Pisárky podobné Praze. V Praze 1 ceny překračují 200 000 Kč za m².",
+      "full_caption": "Pokud hledáte bydlení, připravte se na cestu Evropou. U nás je často dražší než v mnoha bohatších zemích: Olomouc skoro jako Brusel, Brno dražší než Madrid a Pisárky podobné Praze. V Praze 1 přes 200 000 Kč/m²! Zdroj dat jsou Realitymix, data o Belgii z Immoweb, Madrid ze Statisty, Brno Pisárky z Data.Brno.",
       "views": 1472819,
       "views_as_of": "2026-08-24",
       "thumbnail": null
@@ -127,7 +127,7 @@
       "platform": "instagram",
       "title": "Komu dluží Česká republika přes 3,5 bilionu Kč?",
       "description": "Skoro 60 % českého státního dluhu drží banky, pojišťovny a fondy a přes třetinu zahraniční investoři. Náklady na obsluhu dluhu vzrostly z 42 na 88 miliard Kč.",
-      "full_caption": "Zdroj: Ministerstvo financí ČR, Státní dluhopisy podle typu držitele (2024). Česká republika dluží 3,5 bilionu korun. Skoro 60 % drží banky, pojišťovny a fondy, přes třetinu zahraniční investoři. Domácnosti přímo jen 4 %, ale nepřímo jde i o jejich úspory. Za vlády SPOLU se platby za obsluhu dluhu zvýšily z 42 na 88 miliard. Přes 90 % bank je v zahraničních rukou, takže část úroků odtéká na dividendách do zahraničí. Zdroj: ČNB, rozhovor s Evou Zamrazilovou (ExportMag, 20. 11. 2024).",
+      "full_caption": "Zdroj: Ministerstvo financí ČR, Státní dluhopisy podle typu držitele (2024). Česká republika dluží 3,5 bilionu korun. Skoro 60 % drží banky, pojišťovny a fondy, přes třetinu zahraniční investoři. Domácnosti přímo jen 4 %, ale nepřímo jde i o jejich úspory. Za vlády SPOLU se platby za obsluhu dluhu zvýšily z 42 na 88 miliard. Zahraničně kontrolované banky dlouhodobě spravují převážnou většinu aktiv českého bankovního sektoru, takže část zisků může prostřednictvím dividend odtékat do zahraničí. Zdroj: ČNB, rozhovor s Evou Zamrazilovou (ExportMag, 20. 11. 2024).",
       "views": 419823,
       "views_as_of": "2026-08-24",
       "thumbnail": "/assets/cesky-statni-dluh-kdo-ho-drzi.webp"
@@ -136,7 +136,7 @@
       "platform": "instagram",
       "title": "Bydlení zdražilo skoro 6×, platy jen 3×",
       "description": "Od roku 2000 vzrostly platy více než třikrát, ale ceny nemovitostí v Praze skoro šestkrát. Bydlení je tak výrazně méně dostupné.",
-      "full_caption": "Od roku 2000 nám vzrostly platy více než třikrát, ale ceny nemovitostí v Praze vzrostly skoro 6 krát. Určitě se máme lépe, ale bydlení je mnohem méně dostupné. Zdroj: historická data ČSÚ pro index cen bytů a hrubá měsíční mzda v České republice. Nejnovější údaje o cenách jsou ze serveru Sreality, porovnání údajů za 4. kvartál 2000 a 2024.",
+      "full_caption": "Od roku 2000 nám vzrostly platy více než třikrát, ale ceny nemovitostí v Praze vzrostly skoro 6×. Určitě se máme lépe, ale bydlení je mnohem méně dostupné. Zdroj: historická data ČSÚ pro index cen bytů a hrubá měsíční mzda v České republice. Nejnovější údaje o cenách jsou ze serveru Sreality, porovnání údajů za 4. kvartál 2000 a 2024.",
       "views": 1822014,
       "views_as_of": "2026-08-24",
       "thumbnail": "/assets/ceny-bydleni-praha-mzdy.webp"
@@ -279,8 +279,8 @@
     "https://www.facebook.com/reel/1386510929760652": {
       "platform": "facebook",
       "title": "Kdo ve skutečnosti vlastní české banky?",
-      "description": "Většina známých českých bank má zahraniční vlastníky. Domácímu kapitálu patří jen menší část trhu, například Moneta po převzetí PPF nebo Fio.",
-      "full_caption": "Kdo ve skutečnosti vlastní české banky? Většina známých „českých“ bank má zahraniční majitele – rakouské, belgické, francouzské či italské skupiny. Domácímu kapitálu patří jen menší část trhu, například Moneta po převzetí PPF nebo Fio, která vyrostla z družstevních kořenů. Po 90. letech, kdy české kampeličky neměli dost kapitálu ani efektivity, převzaly hlavní roli silné zahraniční skupiny. A ty dnes patří k nejziskovějším na českém trhu.",
+      "description": "Většina známých českých bank má zahraniční vlastníky. Domácí kapitál má na bankovním trhu menší zastoupení; mezi významné banky s českými vlastníky patří například Fio a část akcionářské struktury MONETA Money Bank.",
+      "full_caption": "Kdo ve skutečnosti vlastní české banky? Většina známých „českých“ bank má zahraniční majitele – rakouské, belgické, francouzské či italské skupiny. Domácí kapitál má na bankovním trhu menší zastoupení; mezi významné banky s českými vlastníky patří například Fio a část akcionářské struktury MONETA Money Bank. Po 90. letech, kdy české kampeličky neměly dost kapitálu ani efektivity, převzaly hlavní roli silné zahraniční skupiny. A ty dnes patří k nejziskovějším na českém trhu.",
       "views": 564755,
       "views_as_of": "2026-08-24",
       "thumbnail": null

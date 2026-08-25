@@ -68,7 +68,7 @@ h3{font-size:18px;line-height:1.25;margin-bottom:8px}
 .meta{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}
 .site-footer{padding:42px 0 70px;border-top:1px solid var(--line);color:var(--muted)}
 .footergrid{display:flex;justify-content:space-between;gap:30px;flex-wrap:wrap;font-size:12px}.footergrid a{text-decoration:none}
-.demo{position:fixed;left:50%;bottom:10px;transform:translateX(-50%);z-index:50;background:#fff;border:1px solid var(--line);padding:5px 9px;font-size:9px;color:var(--muted);letter-spacing:.05em}
+
 @media(max-width:900px){
   .hero-grid,.two,.four{grid-template-columns:1fr}
   .exp,.role{grid-template-columns:110px 1fr}.exp>div:last-child,.role-detail{grid-column:2}

@@ -22,7 +22,7 @@ Still to add later:
 - real portrait photography
 - actual Reel thumbnails and platform URLs
 - individual canonical analysis pages
-- social `sameAs` URLs once confirmed
+- `sameAs` URLs now include EU WhoIsWho, LinkedIn, Facebook, Instagram and TikTok
 - `og:image` / social preview assets
 - indexation only after production QA
 
@@ -109,14 +109,14 @@ Still to add later:
 74. Replaced generic publication-link labels with descriptive anchors identifying the Commission Institutional Paper, ECB Working Paper, EUR-Lex document, EP report/OEIL file, journal or other destination.
 75. Replaced generic homepage/About Detail links with descriptive role/study links.
 76. Improved the four short About/Analysis meta descriptions in Czech and English.
-77. Removed all third-party institution image hotlinks; CV institution images are now local under /assets/institutions/.
+77. Localised institution images where exact supplied assets are available. The exact European Parliament and ESRB logos selected by the user remain approved external image references.
 78. Renamed and converted the four Instagram thumbnails to descriptive WebP filenames.
 79. robots.txt and the origin Content-Signal explicitly permit search, AI input/grounding and AI training, with use=full.
 
 80. Replaced the generated/placeholder institution marks with the exact logo image files supplied by the user for European Commission, ECB, BCG, Arthur D. Little, Czech Permanent Representation, University of St. Gallen, LSE, University of Warwick and Gymnázium Matyáše Lercha.
 81. Trimmed exterior white canvas from supplied logos without removing enclosed white details inside crests/logomarks.
 82. Removed the earlier CSS scale-transform workaround. Supplied logos now use institution-specific optical sizes up to roughly 112 px wide / 82 px high and fill the date column substantially better.
-83. All supplied logos are served locally under /assets/institutions/; no supplied logo is hotlinked.
+83. All uploaded logo assets are served locally under /assets/institutions/. The European Parliament and ESRB use the exact external brand assets selected by the user.
 
 84. Removed the incorrect locally generated European Parliament and ESRB placeholder SVGs.
 85. European Parliament now uses exactly the Wikimedia European Parliament logo selected by the user:
@@ -124,3 +124,17 @@ Still to add later:
 86. ESRB now uses exactly the official ESRB logo_only.svg selected by the user:
     https://www.esrb.europa.eu/shared/img/logo/logo_only.svg
 87. EP/ESRB CSS no longer uses scaling hacks or recreated artwork; only optical dimensions are set.
+
+## Production polish — 25 August 2026
+
+87. Removed the visible `DEMO · CRAWL ALLOWED · NOINDEX` production-test marker from all public pages.
+88. Fixed sentence-splitting errors affecting Arthur D. Little, the University of St. Gallen and the English M.A. HSG wording.
+89. Removed research/build-process language such as references to application records, EPSO records, CV evidence and what the website itself attributes.
+90. Polished Czech/English hybrid wording across Czech career pages while preserving official programme, institution and publication names where appropriate.
+91. Corrected social-feed grammar and two ownership-related formulations (MONETA / foreign-controlled banking-sector assets).
+92. Shortened overlong page titles and replaced mechanically truncated meta descriptions with complete sentences; OpenGraph and JSON-LD page descriptions were synchronised.
+93. Added a root `WebSite` JSON-LD node and linked the root `WebPage` to it with `isPartOf`.
+94. Expanded Person `sameAs` on all 38 public pages to EU WhoIsWho, LinkedIn, Facebook, Instagram and TikTok.
+95. Added a visible `rel="me"` LinkedIn link in the site footer.
+96. Simplified `robots.txt` to one wildcard group so all crawlers receive the same permissive search/AI/training content signal.
+97. Rebuilt `SEO_VALIDATION.json` so external image references are reported accurately; EP/ESRB exact-brand hotlinks are an explicit approved exception rather than falsely reported as zero.
