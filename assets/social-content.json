@@ -1,0 +1,289 @@
+{
+  "updated": "2026-08-24",
+  "profiles": {
+    "facebook": {
+      "label": "Facebook",
+      "handle": "Nikolas Mayer",
+      "profile": "https://www.facebook.com/nikolas.mayer",
+      "followers": null,
+      "followers_as_of": null
+    },
+    "instagram": {
+      "label": "Instagram",
+      "handle": "@nikolas.mayer",
+      "profile": "https://www.instagram.com/nikolas.mayer/",
+      "followers": null,
+      "followers_as_of": null
+    },
+    "tiktok": {
+      "label": "TikTok",
+      "handle": "@nikolasmayer",
+      "profile": "https://www.tiktok.com/@nikolasmayer",
+      "followers": null,
+      "followers_as_of": null
+    }
+  },
+  "videos": {
+    "https://www.facebook.com/reel/406757962507695": {
+      "platform": "facebook",
+      "title": "Nejhorší dostupnost bydlení v Evropě",
+      "description": "Sto metrový byt stojí v Česku podle srovnání 297 platů. Pokud by domácnost ukládala polovinu čisté mzdy, na rodinný byt by šetřila přibližně 50 let.",
+      "full_caption": "Nejhorší dostupnost bydlení z celé Evropy je v České republice a na Slovensku. 100metrový byt stojí 297 platů, pokud ušetříte polovinu své čisté mzdy bude Vám trvat 50 let našetřit na byt pro rodinu.",
+      "views": 1368572,
+      "views_as_of": "2026-08-24",
+      "thumbnail": null
+    },
+    "https://www.facebook.com/reel/1656213718781847": {
+      "platform": "facebook",
+      "title": "Hledání práce: ghosting a falešné nabídky",
+      "description": "Podle Greenhouse bylo 61 % uchazečů po pracovním pohovoru ghostnuto a 18–22 % nabídek v jednom čtvrtletí klasifikováno jako ghost jobs.",
+      "full_caption": "Hledání práce dnes často nevypadá jako férový výběr, ale jako hra proti systému. Nahrajete CV, znovu vyplníte celý formulář, projdete několika koly pohovorů — a pak vám firma ani neřekne výsledek.\n\nPodle Greenhouse bylo 61 % uchazečů po pracovním pohovoru „ghostnuto“, tedy firma s nimi prostě přestala komunikovat.\n\nA pracovní nabídka na internetu ještě neznamená, že firma opravdu někoho hledá. Greenhouse uvádí, že v jednom čtvrtletí bylo 18–22 % nabídek na jejich platformě klasifikováno jako ghost jobs. Podle průzkumu ResumeBuilder dokonce 40 % firem zveřejnilo během roku falešnou pracovní nabídku a 3 z 10 firem měly takové nabídky aktivní.\n\nAby vypadaly, že rostou. Aby si sbíraly životopisy do databáze. Aby testovaly trh. A někdy i proto, aby vlastní zaměstnanci měli pocit, že firma hledá posily. Takže když někdo říká, že mladí nechtějí pracovat, možná jen netuší, jak dnes hledání práce opravdu vypadá.",
+      "views": 1472819,
+      "views_as_of": "2026-08-24",
+      "thumbnail": null
+    },
+    "https://www.facebook.com/reel/980720791560017": {
+      "platform": "facebook",
+      "title": "Komu dnes patří české pivovary?",
+      "description": "Plzeň, Kozel, Gambrinus a Radegast patří Asahi, Staropramen a Braník Molson Coors a Krušovice se Starobrnem Heinekenu. Budvar zůstal státní a Svijany české.",
+      "full_caption": "České pivo už dávno neznamená českého vlastníka. Plzeň, Kozel, Gambrinus a Radegast dnes patří japonské Asahi. Staropramen a Braník americkému Molson Coors. Krušovice a Starobrno nizozemskému Heinekenu. Budvar zůstal státní a Svijany vlastní čeští investoři. Snad ta chuť zůstala stejná, i když dividendy samozřejmě odlétají do zahraničí. Pokud chceme, aby z české práce a tradice bohatla česká ekonomika, musíme víc řešit, kdo naše firmy skutečně vlastní.",
+      "views": 1110715,
+      "views_as_of": "2026-08-24",
+      "thumbnail": null
+    },
+    "https://www.facebook.com/reel/1362864018025521": {
+      "platform": "facebook",
+      "title": "Kolik stojí bydlení v českých městech?",
+      "description": "Olomouc je cenami skoro na úrovni Bruselu, Brno dražší než Madrid a Pisárky podobné Praze. V Praze 1 ceny překračují 200 000 Kč za m².",
+      "full_caption": "Pokud hledáte bydlení, připravte se na cestu Evropou. U nás je často dražší než v mnoha bohatších zemích: Olomouc skoro jako Brusel, Brno dražší než Madrid a Pisárky podobné Praze. V Praze 1 přes 200 000 Kč/m²! Zdroj dat jsou Realitymix, data o Belgii z Immoweb, Madrid ze Statisty, Brno Pisárky z Data.Brno.",
+      "views": 1472819,
+      "views_as_of": "2026-08-24",
+      "thumbnail": null
+    },
+    "https://www.facebook.com/reel/2378688526281486": {
+      "platform": "facebook",
+      "title": null,
+      "description": null,
+      "full_caption": null,
+      "views": null,
+      "views_as_of": null,
+      "thumbnail": null
+    },
+    "https://www.facebook.com/reel/1234372245205051": {
+      "platform": "facebook",
+      "title": null,
+      "description": null,
+      "full_caption": null,
+      "views": null,
+      "views_as_of": null,
+      "thumbnail": null
+    },
+    "https://www.facebook.com/reel/844820741242038": {
+      "platform": "facebook",
+      "title": null,
+      "description": null,
+      "full_caption": null,
+      "views": null,
+      "views_as_of": null,
+      "thumbnail": null
+    },
+    "https://www.facebook.com/reel/1799799314007442": {
+      "platform": "facebook",
+      "title": null,
+      "description": null,
+      "full_caption": null,
+      "views": null,
+      "views_as_of": null,
+      "thumbnail": null
+    },
+    "https://www.facebook.com/reel/2324820288019784": {
+      "platform": "facebook",
+      "title": null,
+      "description": null,
+      "full_caption": null,
+      "views": null,
+      "views_as_of": null,
+      "thumbnail": null
+    },
+    "https://www.facebook.com/reel/765864459329390": {
+      "platform": "facebook",
+      "title": null,
+      "description": null,
+      "full_caption": null,
+      "views": null,
+      "views_as_of": null,
+      "thumbnail": null
+    },
+    "https://www.facebook.com/reel/553580457648054": {
+      "platform": "facebook",
+      "title": null,
+      "description": null,
+      "full_caption": null,
+      "views": null,
+      "views_as_of": null,
+      "thumbnail": null
+    },
+    "https://www.instagram.com/nikolas.mayer/reel/DQpC5vHiM1v/": {
+      "platform": "instagram",
+      "title": "Komu dluží Česká republika přes 3,5 bilionu Kč?",
+      "description": "Skoro 60 % českého státního dluhu drží banky, pojišťovny a fondy a přes třetinu zahraniční investoři. Náklady na obsluhu dluhu vzrostly z 42 na 88 miliard Kč.",
+      "full_caption": "Zdroj: Ministerstvo financí ČR, Státní dluhopisy podle typu držitele (2024). Česká republika dluží 3,5 bilionu korun. Skoro 60 % drží banky, pojišťovny a fondy, přes třetinu zahraniční investoři. Domácnosti přímo jen 4 %, ale nepřímo jde i o jejich úspory. Za vlády SPOLU se platby za obsluhu dluhu zvýšily z 42 na 88 miliard. Zahraničně kontrolované banky dlouhodobě spravují převážnou většinu aktiv českého bankovního sektoru, takže část zisků může prostřednictvím dividend odtékat do zahraničí. Zdroj: ČNB, rozhovor s Evou Zamrazilovou (ExportMag, 20. 11. 2024).",
+      "views": 419823,
+      "views_as_of": "2026-08-24",
+      "thumbnail": "/assets/cesky-statni-dluh-kdo-ho-drzi.webp"
+    },
+    "https://www.instagram.com/nikolas.mayer/reel/DKKceiJKrEL/": {
+      "platform": "instagram",
+      "title": "Bydlení zdražilo skoro 6×, platy jen 3×",
+      "description": "Od roku 2000 vzrostly platy více než třikrát, ale ceny nemovitostí v Praze skoro šestkrát. Bydlení je tak výrazně méně dostupné.",
+      "full_caption": "Od roku 2000 nám vzrostly platy více než třikrát, ale ceny nemovitostí v Praze vzrostly skoro 6×. Určitě se máme lépe, ale bydlení je mnohem méně dostupné. Zdroj: historická data ČSÚ pro index cen bytů a hrubá měsíční mzda v České republice. Nejnovější údaje o cenách jsou ze serveru Sreality, porovnání údajů za 4. kvartál 2000 a 2024.",
+      "views": 1822014,
+      "views_as_of": "2026-08-24",
+      "thumbnail": "/assets/ceny-bydleni-praha-mzdy.webp"
+    },
+    "https://www.instagram.com/nikolas.mayer/reel/DcNhUPcoYL-/": {
+      "platform": "instagram",
+      "title": "Černé pokladny Siemensu a CDU",
+      "description": "SEC popsala u Siemensu nejméně 4 283 korupčních plateb za přibližně 1,4 miliardy dolarů. V Německu byly navíc zahraniční úplatky ještě na konci 90. let za určitých podmínek daňově uznatelné.",
+      "full_caption": "Podle americké Komise pro cenné papíry (SEC) vytvořil německý Siemens rozsáhlý systém tajných plateb a černých pokladen. Zaměstnanci vybírali hotovost z firemních „cash desks“, peníze se někdy převážely přes hranice v kufrech a schválení plateb se psalo na post-it lístečky, které se následně odstranily, aby po nich nezůstal záznam. SEC identifikovala nejméně 4 283 korupčních plateb za přibližně 1,4 miliardy dolarů, kterými Siemens získával zakázky po celém světě.\n\nJeště absurdnější byl tehdejší německý daňový systém. OECD uvádí, že zahraniční úplatky, které byly v Německu platně uplatněny jako daňově odčitatelný náklad za rok 1998, už nemusely být uznatelné za rok 1999. Jinými slovy: ještě na konci 90. let mohl německý podnik za určitých podmínek zaplatit úplatek v zahraničí a dát si ho do nákladů.\n\nA černé pokladny nebyly jen záležitostí firem. Podle německého Bundestagu Helmut Kohl v roce 1999 přiznal, že za jeho vedení CDU existovaly černé účty a skryté finanční toky. Mezi lety 1993 a 1998 dostal od anonymních dárců celkem 2,1 milionu německých marek v hotovosti a odmítl zveřejnit jejich jména. Vyšetřování později zjistilo řadu dalších účtů CDU, které se vůbec neobjevovaly v oficiálním stranickém účetnictví.\n\nTyto dokumenty samy o sobě nedokazují, že Siemens nebo CDU upláceli české politiky při české privatizaci. Ukazují ale, jak naivní je představa, že na jedné straně stáli zkorumpovaní postkomunističtí politici a na druhé dokonale čistý západní kapitál.",
+      "views": 69709,
+      "views_as_of": "2026-08-24",
+      "thumbnail": "/assets/siemens-cdu-cerne-pokladny.webp"
+    },
+    "https://www.instagram.com/nikolas.mayer/reel/DcINwYpoGjT/": {
+      "platform": "instagram",
+      "title": "Proč se Česku říká montovna Evropy?",
+      "description": "Česko kombinuje vysokou výnosnost zahraničního kapitálu, mimořádný podíl průmyslu na zaměstnanosti a výrazný odliv výnosů z přímých zahraničních investic.",
+      "full_caption": "Podle dat Eurostatu a České národní banky má česká ekonomika tři výrazné rysy, které vysvětlují, proč se o Česku stále mluví jako o „montovně Evropy“.\n\nPrvním je mimořádně vysoká výnosnost zahraničního kapitálu. Při průměru ročních hodnot Eurostatu za období 2015–2024 vychází výnosnost přímých zahraničních investic v Česku kolem 11,2 % ročně, zatímco v Německu přibližně 4,5 % a ve Francii 4,7 %.\n\nDruhým rysem je mimořádná koncentrace na průmysl. Eurostat uvádí, že 27,5 % českých zaměstnaných pracuje v průmyslu.\n\nTřetím rysem je odliv vytvořených zisků. Podle dat ČNB vydělaly firmy pod zahraniční kontrolou v roce 2025 v Česku 612,8 miliardy korun, ale reinvestovaly zde jen 238,5 miliardy, tedy necelých 39 %. ČNB uvádí, že čistý odliv výnosů z přímých zahraničních investic dosáhl v roce 2025 5,2 % českého HDP.",
+      "views": 81610,
+      "views_as_of": "2026-08-24",
+      "thumbnail": "/assets/montovna-evropy-zahranicni-kapital.webp"
+    },
+    "https://www.instagram.com/nikolas.mayer/reel/Dbr9hBCoklW/": {
+      "platform": "instagram",
+      "title": null,
+      "description": null,
+      "full_caption": null,
+      "views": null,
+      "views_as_of": null,
+      "thumbnail": null
+    },
+    "https://www.instagram.com/nikolas.mayer/reel/DSX2qADiA7m/": {
+      "platform": "instagram",
+      "title": null,
+      "description": null,
+      "full_caption": null,
+      "views": null,
+      "views_as_of": null,
+      "thumbnail": null
+    },
+    "https://www.instagram.com/nikolas.mayer/reel/DTQXAWrCGr2/": {
+      "platform": "instagram",
+      "title": null,
+      "description": null,
+      "full_caption": null,
+      "views": null,
+      "views_as_of": null,
+      "thumbnail": null
+    },
+    "https://www.instagram.com/nikolas.mayer/reel/C8uYAsLC2hs/": {
+      "platform": "instagram",
+      "title": null,
+      "description": null,
+      "full_caption": null,
+      "views": null,
+      "views_as_of": null,
+      "thumbnail": null
+    },
+    "https://www.instagram.com/nikolas.mayer/reel/DH81gNVqDNb/": {
+      "platform": "instagram",
+      "title": null,
+      "description": null,
+      "full_caption": null,
+      "views": null,
+      "views_as_of": null,
+      "thumbnail": null
+    },
+    "https://www.tiktok.com/@nikolasmayer/video/7554059313351150870": {
+      "platform": "tiktok",
+      "title": "Kdo zvýšil český státní dluh?",
+      "description": "Podle statistik Ministerstva financí vzrostl od prosince 2021 státní dluh o 1,4 bilionu Kč. Video porovnává vývoj dluhu za vlád ANO a SPOLU.",
+      "full_caption": "Zdroj: Oficiální statistiky Ministerstva financí ČR o struktuře a vývoji státního dluhu 1993–2024 ukazují, že hnutí ANO státní dluh v průměru snižovalo o 7 miliard ročně, dokud výdaje na Covid nepřinesly výrazný deficit, zatímco vláda SPOLU od prosince 2021 navýšila dluh o 1,4 bilionu korun, což je 1,82× více než vláda ANO za osm let, a i když má Česko stále relativně nízký dluh, propadlo se z 6. na 9. místo v EU (před covidem dokonce ze 4. místa). Rozpočet pro rok 2026 je pouze návrh, výdaje už vláda SPOLU ale naplánovala.",
+      "views": 246915,
+      "views_as_of": "2026-08-24",
+      "thumbnail": null
+    },
+    "https://www.tiktok.com/@nikolasmayer/video/7385054453071629601": {
+      "platform": "tiktok",
+      "title": "Průměrná mzda podle krajů",
+      "description": "Praha má dlouhodobě nejvyšší průměrnou mzdu v Česku. Všechny ostatní kraje zůstávají pod republikovým průměrem a dvě třetiny zaměstnanců na průměrnou mzdu nedosáhnou.",
+      "full_caption": "Průměrná měsíční hrubá mzda podle krajů, údaje Českého statistického úřadu. Nejvyšší průměrná mzda v České republice je dlouhodobě v Praze. Všechny ostatní kraje nedosáhnou ani na republikový průměr. Dvě třetiny zaměstnanců na průměrnou mzdu nedosáhnou.",
+      "views": 82506,
+      "views_as_of": "2026-08-24",
+      "thumbnail": null
+    },
+    "https://www.tiktok.com/@nikolasmayer/video/7400062866868522272": {
+      "platform": "tiktok",
+      "title": "Praha je čtvrtý nejbohatší region EU",
+      "description": "V HDP na obyvatele po zohlednění parity kupní síly je Praha čtvrtým nejbohatším regionem EU, zatímco ostatní české regiony jsou výrazně níže.",
+      "full_caption": "Praha je čtvrtý nejbohatší region v celé Evropské unii. Porovnáváme hrubý domácí produkt na obyvatele, upravený podle parity kupní síly. Praha je levnější než hlavní města v ostatních státech, HDP bez kupní síly umístí Prahu na 18. místo. Na 199. místě je Jižní Morava a Střední Čechy na 214. místě. Další regiony jsou až kolem 250. místa: Jihozápad (236), Střední Morava (237), Severovýchod (246), Moravskoslezsko (248), Severozápad (286). Celorepublikový průměr nás řadí na 151. místo.",
+      "views": 147829,
+      "views_as_of": "2026-08-24",
+      "thumbnail": null
+    },
+    "https://www.tiktok.com/@nikolasmayer/video/7556626282943909142": {
+      "platform": "tiktok",
+      "title": "Proč nám tvrdí, že jsme se nikdy neměli lépe?",
+      "description": "Podle OECD klesla česká životní úroveň od roku 2021 o 9,6 %, což vrací reálné příjmy přibližně na úroveň roku 2019. Vývoj byl navíc velmi rozdílný mezi regiony.",
+      "full_caption": "Proč nám tvrdí, že jsme se nikdy neměli lépe? Podle OECD jsme zažili největší propad životní úrovně v rozvinutém světě, od roku 2021 je to o 9,6 % a to nás vrací na úroveň reálných příjmů roku 2019. To je celorepublikový průměr. Reálné mzdy totiž rostly jen v Praze a Brně, zbytek republiky zažil obří propad. Zároveň se výrazně zvýšila příjmová nerovnost, takže pozitivní zkušenost s růstem životní úrovně zažívá jen malá část populace.",
+      "views": 71623,
+      "views_as_of": "2026-08-24",
+      "thumbnail": null
+    },
+    "https://www.tiktok.com/@nikolasmayer/video/7490604197742644502": {
+      "platform": "tiktok",
+      "title": null,
+      "description": null,
+      "full_caption": null,
+      "views": null,
+      "views_as_of": null,
+      "thumbnail": null
+    },
+    "https://www.tiktok.com/@nikolasmayer/video/7427153764404022561": {
+      "platform": "tiktok",
+      "title": null,
+      "description": null,
+      "full_caption": null,
+      "views": null,
+      "views_as_of": null,
+      "thumbnail": null
+    },
+    "https://www.tiktok.com/@nikolasmayer/video/7405456369744137505": {
+      "platform": "tiktok",
+      "title": null,
+      "description": null,
+      "full_caption": null,
+      "views": null,
+      "views_as_of": null,
+      "thumbnail": null
+    },
+    "https://www.tiktok.com/@nikolasmayer/video/7380606943498472737": {
+      "platform": "tiktok",
+      "title": null,
+      "description": null,
+      "full_caption": null,
+      "views": null,
+      "views_as_of": null,
+      "thumbnail": null
+    },
+    "https://www.facebook.com/reel/1386510929760652": {
+      "platform": "facebook",
+      "title": "Kdo ve skutečnosti vlastní české banky?",
+      "description": "Většina známých českých bank má zahraniční vlastníky. Domácí kapitál má na bankovním trhu menší zastoupení; mezi významné banky s českými vlastníky patří například Fio a část akcionářské struktury MONETA Money Bank.",
+      "full_caption": "Kdo ve skutečnosti vlastní české banky? Většina známých „českých“ bank má zahraniční majitele – rakouské, belgické, francouzské či italské skupiny. Domácí kapitál má na bankovním trhu menší zastoupení; mezi významné banky s českými vlastníky patří například Fio a část akcionářské struktury MONETA Money Bank. Po 90. letech, kdy české kampeličky neměly dost kapitálu ani efektivity, převzaly hlavní roli silné zahraniční skupiny. A ty dnes patří k nejziskovějším na českém trhu.",
+      "views": 564755,
+      "views_as_of": "2026-08-24",
+      "thumbnail": null
+    }
+  }
+}
