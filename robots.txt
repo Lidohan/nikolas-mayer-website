@@ -1,8 +1,0 @@
-# Nikolas Mayer — crawler permissions
-# Search indexing, AI grounding/input and AI model training are permitted.
-
-User-agent: *
-Content-signal: search=yes, ai-input=yes, ai-train=yes, use=full
-Allow: /
-
-Sitemap: https://nikolasmayer.com/sitemap.xml
