@@ -1,0 +1,21 @@
+{
+  "release": "v13",
+  "base": "v12",
+  "public_index_pages": 53,
+  "changed_html_pages": 54,
+  "analysis_detail_pages_updated": 13,
+  "exact_duplicate_titles_remaining": {},
+  "titles_over_60_chars_after_changes": [
+    {
+      "length": 63,
+      "page": "analyzy/komu-dluzi-ceska-republika/index.html",
+      "title": "Komu dluží Česká republika přes 3,5 bilionu Kč? — Nikolas Mayer"
+    },
+    {
+      "length": 61,
+      "page": "analyzy/proc-se-nam-nikdy-nemelo-lepe/index.html",
+      "title": "Proč nám tvrdí, že jsme se nikdy neměli lépe? — Nikolas Mayer"
+    }
+  ],
+  "validation_errors": []
+}
